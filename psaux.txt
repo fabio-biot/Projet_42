@@ -1,0 +1,714 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      387   9,3  0,9 414710064 146112   ??  Ss    7:09    18:12.59 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+fabiochaput        640   2,7  0,6 412416976 104096   ??  S     7:09     0:10.57 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+_locationd         364   2,2  0,2 426994128  27664   ??  Ss    7:09     0:37.95 /usr/libexec/locationd
+root               356   1,8  0,1 426974160  16128   ??  Ss    7:09     0:19.41 /usr/libexec/opendirectoryd
+root               379   0,9  0,2 426997424  32176   ??  Ss    7:09     1:32.90 /usr/sbin/bluetoothd
+fabiochaput        580   0,8  1,3 412809104 219872   ??  S     7:09     2:10.50 /System/Applications/Music.app/Contents/MacOS/Music
+_coreaudiod        403   0,7  0,2 427008592  34256   ??  Ss    7:09     0:48.50 /usr/sbin/coreaudiod
+root               392   0,7  0,1 426981952  21872   ??  Ss    7:09     0:41.20 /usr/libexec/runningboardd
+fabiochaput        549   0,4  0,0 426932880   6144   ??  S     7:09     0:03.87 /usr/sbin/distnoted agent
+fabiochaput        626   0,3  0,2 426972560  29472   ??  S     7:09     0:05.01 /System/Library/CoreServices/audioaccessoryd
+_distnote          370   0,3  0,0 426932880   3776   ??  Ss    7:09     0:01.92 /usr/sbin/distnoted daemon
+fabiochaput       2669   0,3  0,1 426986352  14480   ??  S     9:31     0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+fabiochaput        675   0,2  0,6 427204752  97376   ??  S     7:09     6:05.62 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+fabiochaput        926   0,2  0,3 427018512  44720   ??  S     7:09     0:23.59 /usr/libexec/duetexpertd
+root                 1   0,1  0,1 426853712  19792   ??  Ss    7:09     0:47.20 /sbin/launchd
+root               395   0,1  0,1 426973696  24272   ??  Ss    7:09     0:39.30 /usr/libexec/airportd
+fabiochaput       1018   0,1  0,1 411293072  21568   ??  S     7:10     0:03.14 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+root               380   0,1  0,0 426932576   4064   ??  Ss    7:09     0:08.17 /usr/sbin/notifyd
+fabiochaput       2299   0,1  0,8 412458208 129792   ??  S     8:16     0:43.03 /Library/Application Support/Logitech.localized/LogiOptionsPlus/logioptionsplus_agent.app/Contents/MacOS/logioptionsplus_agent --launchd
+_driverkit         551   0,1  0,2 426919328  39424   ??  Ss    7:09     1:37.70 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000b3b com.apple.DriverKit-AppleBCMWLAN
+root               321   0,1  0,0 426940160   6272   ??  Ss    7:09     0:28.33 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               317   0,1  0,2 427121440  41920   ??  Ss    7:09     0:30.14 /usr/libexec/logd
+fabiochaput       2342   0,1  0,6 412596912  94320   ??  S     8:16     0:16.35 /Library/Application Support/Logitech.localized/LogiOptionsPlus/logi_ai_prompt_builder/Logi AI Prompt Builder.app/Contents/MacOS/Logi AI Prompt Builder
+fabiochaput        950   0,1  0,5 432291008  83424   ??  Ss    7:09     0:38.49 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+fabiochaput       2518   0,0  0,4 499041280  63632   ??  Ss    8:43     0:00.85 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2514   0,0  0,1 411186400  19808   ??  S     8:43     0:00.10 /System/Library/PrivateFrameworks/SkyLight.framework//Versions/A/Resources/AquaAppearanceHelper.app/Contents/MacOS/AquaAppearanceHelper
+fabiochaput       2509   0,0  7,3 502274448 1228256   ??  Ss    8:43     0:45.41 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2502   0,0  0,9 499516144 158320   ??  Ss    8:43     0:02.45 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2497   0,0  0,0 426916640   1744   ??  Ss    8:43     0:00.02 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput       2496   0,0  0,0 426953568   4544   ??  Ss    8:43     0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput       2495   0,0  0,0 426967472   6064   ??  Ss    8:43     0:00.03 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+fabiochaput       2491   0,0  0,0 410180880   1888   ??  Ss    8:43     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+fabiochaput       2429   0,0  0,0 410310864   2464   ??  Ss    8:36     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       2426   0,0  0,0 410331344   2464   ??  Ss    8:36     0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       2421   0,0  0,0 426953616   4816   ??  Ss    8:36     0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput       2420   0,0  0,0 426957664   4704   ??  Ss    8:36     0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput       2414   0,0  0,2 427002624  29136   ??  S     8:35     0:00.64 /System/Library/PrivateFrameworks/IntelligenceFlowContextRuntime.framework/Versions/A/intelligencecontextd
+_modelmanagerd    2413   0,0  0,1 427019248   8608   ??  Ss    8:35     0:00.13 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
+fabiochaput       2412   0,0  0,1 426968960  16592   ??  S     8:35     0:00.54 /System/Library/PrivateFrameworks/IntelligenceFlowRuntime.framework/Versions/A/intelligenceflowd
+fabiochaput       2409   0,0  0,0 410633472   5952   ??  Ss    8:32     0:00.03 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+fabiochaput       2404   0,0  8,1 501983424 1356528   ??  Ss    8:31     2:31.75 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2401   0,0  0,0 426953568   4656   ??  Ss    8:31     0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput       2390   0,0  0,1 411333568  10640   ??  S     8:31     0:00.59 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
+root              2387   0,0  0,0 426953552   4608   ??  Ss    8:30     0:00.02 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput       2386   0,0  0,0 426912352   6192   ??  Ss    8:30     0:00.04 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+fabiochaput       2385   0,0  0,0 410191120   1856   ??  Ss    8:30     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+fabiochaput       2384   0,0  0,0 410302672   2464   ??  Ss    8:30     0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       2383   0,0  0,0 426953600   4640   ??  Ss    8:30     0:00.12 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput       2382   0,0  0,2 427116240  34672   ??  Ss    8:30     0:00.52 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+root              2295   0,0  0,1 412084448  19952   ??  Ss    8:16     0:00.64 /Library/Application Support/Logitech.localized/LogiOptionsPlus/logioptionsplus_agent.app/Contents/Frameworks/logioptionsplus_updater.app/Contents/MacOS/logioptionsplus_updater
+root              2282   0,0  0,1 411022368  14448   ??  Ss    8:16     0:00.09 /Library/Application Support/Logitech.localized/LogiRightSightForWebcams/LogiRightSight.app/Contents/MacOS/LogiRightSight
+root              2262   0,0  0,0 426932928   3296   ??  S     8:16     0:00.03 /System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/XPCServices/package_script_service.xpc/Contents/MacOS/package_script_service
+fabiochaput       2182   0,0  0,1 427131856  14192   ??  S     8:15     0:01.10 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+root              2168   0,0  0,0 426929232   2240   ??  Ss    8:15     0:00.01 /System/Library/CoreServices/ReportCrash daemon
+root              2167   0,0  0,0 426967488   7392   ??  Ss    8:15     0:05.24 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+_modelmanagerd    2149   0,0  0,0 426932880   1824   ??  S     8:14     0:00.17 /usr/sbin/distnoted agent
+_modelmanagerd    2148   0,0  0,1 427070304   8992   ??  Ss    8:14     0:00.64 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
+fabiochaput       2137   0,0  0,1 411391744  12912   ??  S     8:13     0:01.23 /Applications/Arduino IDE.app/Contents/Resources/app/lib/backend/resources/clangd -log=verbose --pch-storage=memory --compile-commands-dir=/private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/arduino-language-server3007983609/build -j 1 -query-driver=/Users/fabiochaput/Library/Arduino15/packages/**
+fabiochaput       2108   0,0  0,1 411435824  14080   ??  S     8:12     0:00.15 /Applications/Arduino IDE.app/Contents/Resources/app/lib/backend/resources/arduino-language-server -clangd /Applications/Arduino IDE.app/Contents/Resources/app/lib/backend/resources/clangd -cli-daemon-addr localhost:49154 -cli-daemon-instance 1 -fqbn arduino:avr:uno -skip-libraries-discovery-on-rebuild -board-name Arduino Uno -no-real-time-diagnostics
+fabiochaput       2105   0,0  0,1 1596714400  23328   ??  S     8:12     0:00.34 /Applications/Arduino IDE.app/Contents/Frameworks/Arduino IDE Helper.app/Contents/MacOS/Arduino IDE Helper /Applications/Arduino IDE.app/Contents/Resources/app/plugins/vscode-builtin-json-language-features/extension/./server/dist/node/jsonServerMain --node-ipc --clientProcessId=2103
+fabiochaput       2103   0,0  0,2 1596758624  25872   ??  S     8:12     0:00.44 /Applications/Arduino IDE.app/Contents/Frameworks/Arduino IDE Helper.app/Contents/MacOS/Arduino IDE Helper /Applications/Arduino IDE.app/Contents/Resources/app/lib/backend/plugin-host
+_fpsd             2091   0,0  0,2 426981888  33200   ??  Ss    8:12     0:04.43 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+fabiochaput       2085   0,0  0,1 426980640  17136   ??  S     8:11     0:00.25 /usr/libexec/proactived
+root              2058   0,0  0,0 426957648   4352   ??  Ss    8:09     0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              2059   0,0  0,0 426957648   4352   ??  Ss    8:09     0:00.09 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              2057   0,0  0,1 427034144  11152   ??  Ss    8:09     0:00.78 /System/Library/CoreServices/iconservicesagent runAsRoot
+fabiochaput       2050   0,0  0,1 426966400  10624   ??  Ss    8:09     0:00.06 /System/Library/Frameworks/GroupActivities.framework/Versions/A/XPCServices/GroupSessionService.xpc/Contents/MacOS/GroupSessionService
+fabiochaput       2040   0,0  0,1 426968944  16944   ??  S     8:09     0:00.06 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+fabiochaput       2038   0,0  0,0 426967232   8208   ??  S     8:09     0:00.03 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+fabiochaput       1856   0,0  0,0 411329776   5328   ??  Ss    7:46     0:00.11 /System/Library/PrivateFrameworks/MediaAnalysisAccess.framework/Versions/A/XPCServices/mediaanalysisd-access.xpc/Contents/MacOS/mediaanalysisd-access
+fabiochaput       1768   0,0  0,1 427151440  17216   ??  S     7:44     0:00.38 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+fabiochaput       1764   0,0  0,0 410640768   2192   ??  S     7:29     0:00.03 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+root              1763   0,0  0,0 410622336   2224   ??  Ss    7:28     0:00.03 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+fabiochaput       1748   0,0  0,1 410786848  13616   ??  S     7:28     0:02.80 /Users/fabiochaput/Library/Arduino15/packages/builtin/tools/mdns-discovery/1.0.9/mdns-discovery
+fabiochaput       1747   0,0  0,0 410795632   3936   ??  S     7:28     0:05.21 /Users/fabiochaput/Library/Arduino15/packages/builtin/tools/serial-discovery/1.4.1/serial-discovery
+fabiochaput       1694   0,0  0,0 426977936   8000   ??  Ss    7:25     0:00.06 /System/Applications/System Settings.app/Contents/PlugIns/csimporter.appex/Contents/MacOS/csimporter -AppleLanguages ("fr-FR")
+fabiochaput       1684   0,0  0,1 413019264   9856   ??  S     7:24     0:00.25 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/managedcorespotlightd
+fabiochaput       1673   0,0  0,1 426972288  21904   ??  S     7:23     0:00.21 /System/Library/PrivateFrameworks/AvatarPersistence.framework/Support/avatarsd
+fabiochaput       1667   0,0  0,0 426933952   6432   ??  S     7:23     0:00.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+_reportsystemmemory  1665   0,0  0,0 426966304   4032   ??  Ss    7:23     0:00.03 /System/Library/CoreServices/ReportSystemMemory
+_audiomxd         1654   0,0  0,0 426932928   2304   ??  S     7:22     0:00.09 /usr/sbin/cfprefsd agent
+fabiochaput       1638   0,0  0,1 426976720  24752   ??  S     7:20     0:00.96 /System/Library/PrivateFrameworks/People.framework/peopled
+fabiochaput       1633   0,0  0,0 426932944   4192   ??  S     7:20     0:00.02 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+_audiomxd         1631   0,0  0,0 426932880   1952   ??  S     7:20     0:00.23 /usr/sbin/distnoted agent
+root              1614   0,0  0,0 426932944   6064   ??  Ss    7:17     0:00.03 /usr/libexec/microstackshot
+fabiochaput       1609   0,0  0,0 426967856   7360   ??  Ss    7:17     0:00.22 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+root              1608   0,0  0,0 426933504   3600   ??  Ss    7:17     0:00.06 /System/Library/PrivateFrameworks/PerfPowerServicesReader.framework/Versions/A/XPCServices/PerfPowerTelemetryReaderService.xpc/Contents/MacOS/PerfPowerTelemetryReaderService
+root              1597   0,0  0,0 426933456   3824   ??  Ss    7:17     0:00.04 /usr/libexec/mmaintenanced
+fabiochaput       1580   0,0  0,0 426934016   4816   ??  Ss    7:17     0:00.23 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+_rmd              1579   0,0  0,0 426932928   2272   ??  S     7:17     0:00.06 /usr/sbin/cfprefsd agent
+fabiochaput       1578   0,0  0,0 426929808   5568   ??  S     7:17     0:00.04 /usr/libexec/backgroundassets.user
+fabiochaput       1577   0,0  0,1 426979072   9664   ??  S     7:17     0:00.47 /usr/libexec/mlhostd
+_nsurlsessiond    1575   0,0  0,0 426932928   2256   ??  S     7:17     0:00.06 /usr/sbin/cfprefsd agent
+fabiochaput       1571   0,0  0,1 426944128   8592   ??  Ss    7:16     0:00.05 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor
+fabiochaput       1570   0,0  0,0 426944272   7904   ??  Ss    7:16     0:00.02 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
+fabiochaput       1569   0,0  0,0 426977632   8128   ??  Ss    7:16     0:00.02 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor
+fabiochaput       1568   0,0  0,1 426977712   9856   ??  Ss    7:16     0:00.08 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor
+fabiochaput       1567   0,0  0,0 426934016   4816   ??  Ss    7:16     0:00.10 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+fabiochaput       1566   0,0  0,1 410816768   9680   ??  Ss    7:16     0:00.33 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+_accessoryupdater  1564   0,0  0,0 426932928   2240   ??  S     7:16     0:00.06 /usr/sbin/cfprefsd agent
+_applepay         1565   0,0  0,0 426932928   2304   ??  S     7:16     0:00.06 /usr/sbin/cfprefsd agent
+root              1551   0,0  0,0 426932944   3680   ??  Ss    7:16     0:00.05 /usr/libexec/betaenrollmentd
+fabiochaput       1550   0,0  0,0 426967360   5328   ??  S     7:16     0:00.06 /usr/libexec/betaenrollmentagent
+_cmiodalassistants  1548   0,0  0,0 426932928   2320   ??  S     7:16     0:00.06 /usr/sbin/cfprefsd agent
+root              1542   0,0  0,0 426967920   6528   ??  Ss    7:15     0:00.85 /usr/libexec/ASPCarryLog
+fabiochaput       1529   0,0  0,1 426969248   8448   ??  S     7:14     0:00.14 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+fabiochaput       1503   0,0  0,1 426969504   8976   ??  Ss    7:14     0:00.05 /System/Library/PrivateFrameworks/DifferentialPrivacy.framework/XPCServices/DPSubmissionService.xpc/Contents/MacOS/DPSubmissionService
+fabiochaput       1501   0,0  0,0 426933008   7680   ??  S     7:14     0:00.04 /usr/libexec/feedbackd
+fabiochaput       1502   0,0  0,0 426971840   5216   ??  S     7:14     0:00.10 /usr/libexec/dprivacyd
+fabiochaput       1500   0,0  0,1 426968608  13744   ??  S     7:14     0:00.20 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+root              1492   0,0  0,0 410752240   2880   ??  Ss    7:12     0:00.03 /System/Library/PrivateFrameworks/OAHSoftwareUpdate.framework/Versions/A/XPCServices/RosettaUpdateService.xpc/Contents/MacOS/RosettaUpdateService
+root              1477   0,0  0,1 412308560  13632   ??  Ss    7:12     7:05.19 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777231.8026788.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.UpdateBrainService
+fabiochaput       1469   0,0  0,0 426970512   7520   ??  S     7:12     0:00.08 /System/Library/PrivateFrameworks/PrivateCloudCompute.framework/privatecloudcomputed.app/Contents/MacOS/privatecloudcomputed
+fabiochaput       1449   0,0  0,1 426993296   8704   ??  Ss    7:11     0:00.10 /System/Library/PrivateFrameworks/MediaConversionService.framework/Versions/A/XPCServices/com.apple.photos.ImageConversionService.xpc/Contents/MacOS/com.apple.photos.ImageConversionService
+fabiochaput       1448   0,0  0,0 410171664   1792   ??  Ss    7:11     0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+_rmd              1440   0,0  0,0 410903456   4512   ??  Ss    7:11     0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedConfigurationFilesSubscriber.xpc/Contents/MacOS/ManagedConfigurationFilesSubscriber
+_rmd              1439   0,0  0,0 410902784   4880   ??  Ss    7:11     0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+fabiochaput       1438   0,0  0,3 431559152  47920   ??  Ss    7:11     0:03.48 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_rmd              1435   0,0  0,0 410772336   6784   ??  Ss    7:11     0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SoftwareUpdateSubscriber.xpc/Contents/MacOS/SoftwareUpdateSubscriber
+_rmd              1434   0,0  0,0 410771744   4208   ??  Ss    7:11     0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+_softwareupdate   1432   0,0  0,0 426932960   2672   ??  S     7:11     0:00.05 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+_rmd              1429   0,0  0,0 410771760   4224   ??  Ss    7:11     0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+_softwareupdate   1428   0,0  0,0 426932928   2464   ??  S     7:11     0:00.06 /usr/sbin/cfprefsd agent
+_softwareupdate   1427   0,0  0,0 426933056   3040   ??  S     7:11     0:00.34 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_rmd              1426   0,0  0,0 410902800   4208   ??  Ss    7:11     0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+_softwareupdate   1423   0,0  0,3 431542160  42640   ??  Ss    7:11     0:02.92 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_rmd              1421   0,0  0,0 410772240   6704   ??  Ss    7:11     0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+_rmd              1420   0,0  0,0 410771712   4240   ??  Ss    7:11     0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+_rmd              1419   0,0  0,0 426932880   1936   ??  S     7:11     0:00.26 /usr/sbin/distnoted agent
+_rmd              1418   0,0  0,0 410902848   4944   ??  Ss    7:11     0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+fabiochaput       1416   0,0  0,2 426979552  37744   ??  S     7:11     0:02.62 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+_rmd              1417   0,0  0,0 426968080   6864   ??  Ss    7:11     0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd
+_spotlight        1395   0,0  0,0 426933424   5504   ??  S     7:11     0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+_spotlight        1305   0,0  0,0 426968976   6720   ??  S     7:11     0:00.25 /usr/libexec/trustd --agent
+fabiochaput       1271   0,0  0,1 426975376  22864   ??  S     7:11     0:00.98 /usr/libexec/tipsd
+fabiochaput       1178   0,0  0,4 427310608  65808   ??  Ss    7:11     0:08.44 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+fabiochaput       1177   0,0  0,0 426928992   1568   ??  S     7:11     0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fudHelperAgent
+fabiochaput       1170   0,0  0,1 426967584  10432   ??  S     7:11     0:00.33 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+fabiochaput       1168   0,0  0,0 426965776   3904   ??  S     7:10     0:00.04 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsagent
+fabiochaput       1167   0,0  0,1 426982592  18496   ??  Ss    7:10     0:33.36 /System/Applications/Mail.app/Contents/PlugIns/com.apple.mail.SpotlightIndexExtension.appex/Contents/MacOS/com.apple.mail.SpotlightIndexExtension -AppleLanguages ("fr-FR")
+fabiochaput       1166   0,0  0,2 426987280  29936   ??  S     7:10     0:43.78 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+fabiochaput       1162   0,0  0,0 426932400   5488   ??  S     7:10     0:06.76 /usr/libexec/textunderstandingd
+fabiochaput       1161   0,0  0,3 431380608  51088   ??  S     7:10     0:12.98 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+fabiochaput       1160   0,0  0,0 426974048   8160   ??  S     7:10     0:05.37 /System/Library/PrivateFrameworks/IntelligencePlatformCore.framework/Versions/A/intelligenceplatformd
+fabiochaput       1158   0,0  0,1 431358640   9456   ??  Ss    7:10     0:00.06 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+fabiochaput       1157   0,0  0,0 410611920   2400   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1156   0,0  0,1 499231776  15952   ??  Ss    7:10     0:00.27 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       1155   0,0  0,1 431506192  10416   ??  Ss    7:10     0:00.26 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+fabiochaput       1154   0,0  0,1 426976272  14752   ??  S     7:10     0:00.36 /usr/libexec/ciphermld
+fabiochaput       1153   0,0  0,1 426978464   9888   ??  Ss    7:10     0:00.05 /System/Applications/Calendar.app/Contents/Extensions/CalendarIntentsExtension.appex/Contents/MacOS/CalendarIntentsExtension
+fabiochaput       1152   0,0  0,0 426933616   4800   ??  Ss    7:10     0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+fabiochaput       1150   0,0  0,2 426969600  32464   ??  S     7:10     0:04.00 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+fabiochaput       1149   0,0  0,1 426971104  15312   ??  S     7:10     0:00.38 /usr/libexec/adprivacyd
+fabiochaput       1148   0,0  0,1 426967632  10624   ??  S     7:10     0:00.16 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+root              1147   0,0  0,0 410663584   3760   ??  Ss    7:10     0:00.04 /System/Library/PrivateFrameworks/MobileAsset.framework/Versions/A/XPCServices/ManifestStorageService.xpc/Contents/MacOS/ManifestStorageService
+fabiochaput       1145   0,0  0,0 426967552   1280   ??  Ss    7:10     0:00.15 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+fabiochaput       1144   0,0  0,1 426967216  10576   ??  S     7:10     0:00.35 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
+root              1140   0,0  0,0 426969600   6128   ??  Ss    7:10     0:00.16 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777231.8018829.xpc/Contents/MacOS/com.apple.NRD.UpdateBrainService
+root              1141   0,0  0,0 426966768   3056   ??  Ss    7:10     0:00.15 /usr/libexec/xpcroleaccountd -launchd
+_nsurlsessiond    1138   0,0  0,0 411427168   3024   ??  Ss    7:10     0:05.34 /System/Library/PrivateFrameworks/StreamingExtractor.framework/Versions/A/XPCServices/STExtractionService.privileged.xpc/Contents/MacOS/STExtractionService.privileged
+root              1137   0,0  0,0 426966320   5504   ??  Ss    7:10     0:00.07 /usr/libexec/triald_system
+root              1136   0,0  0,2 426983408  29536   ??  Ss    7:10     0:12.74 /usr/libexec/PerfPowerServices
+_nsurlsessiond    1135   0,0  0,0 411426672   4304   ??  Ss    7:10     0:41.46 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.privileged.xpc/Contents/MacOS/com.apple.StreamingUnzipService.privileged
+root              1134   0,0  0,0 426932384   3008   ??  Ss    7:10     0:00.01 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+fabiochaput       1132   0,0  0,1 426972832  13280   ??  S     7:10     0:00.27 /System/Library/PrivateFrameworks/MapsSync.framework/mapssyncd
+_assetcache       1131   0,0  0,0 426969264   8128   ??  Ss    7:10     0:00.12 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+fabiochaput       1130   0,0  0,0 410329296   2400   ??  Ss    7:10     0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1128   0,0  0,1 426972128  12576   ??  S     7:10     0:00.17 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+_softwareupdate   1127   0,0  0,1 426969648   9856   ??  Ss    7:10     0:00.15 /usr/libexec/NRDUpdated
+fabiochaput       1126   0,0  0,0 426932368   2368   ??  S     7:10     0:00.02 /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/installerauthagent
+fabiochaput       1125   0,0  0,1 426988976  10240   ??  Ss    7:10     0:02.31 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+fabiochaput       1120   0,0  0,1 426972496  13040   ??  S     7:10     0:00.12 /usr/libexec/milod
+fabiochaput       1117   0,0  0,0 410647808   5024   ??  Ss    7:10     0:00.03 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+fabiochaput       1116   0,0  0,0 410656000   4960   ??  Ss    7:10     0:00.03 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+fabiochaput       1113   0,0  0,0 410903008   2608   ??  Ss    7:10     0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/AUCrashHandlerService.xpc/Contents/MacOS/AUCrashHandlerService
+fabiochaput       1114   0,0  0,0 410321104   2400   ??  Ss    7:10     0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1112   0,0  0,0 410311888   2400   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1111   0,0  0,0 410321104   2400   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1109   0,0  0,0 410322128   2400   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1110   0,0  0,0 410322128   2400   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1107   0,0  0,0 410386416   7728   ??  Ss    7:10     0:00.03 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_arm64.appex/Contents/MacOS/WardaSynthesizer_arm64 -AppleLanguages ("fr-FR")
+fabiochaput       1106   0,0  0,0 34060464   1048   ??  Ss    7:10     0:00.15 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_x86_64.appex/Contents/MacOS/WardaSynthesizer_x86_64 -AppleLanguages ("fr-FR")
+fabiochaput       1105   0,0  0,1 410253728   8624   ??  Ss    7:10     0:00.02 /System/Library/PrivateFrameworks/TextToSpeech.framework/PlugIns/SiriAUSP.appex/Contents/MacOS/SiriAUSP -AppleLanguages ("fr-FR")
+fabiochaput       1104   0,0  0,1 410665008  10592   ??  Ss    7:10     0:00.07 /System/Library/PrivateFrameworks/TextToSpeechMauiSupport.framework/Versions/A/PlugIns/MauiAUSP.appex/Contents/MacOS/MauiAUSP -AppleLanguages ("fr-FR")
+fabiochaput       1103   0,0  0,0 410384288   8352   ??  Ss    7:10     0:00.02 /System/Library/PrivateFrameworks/TextToSpeechKonaSupport.framework/Versions/A/PlugIns/KonaSynthesizer.appex/Contents/MacOS/KonaSynthesizer -AppleLanguages ("fr-FR")
+fabiochaput       1102   0,0  0,1 410656752  11792   ??  Ss    7:10     0:00.05 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/MacinTalkAUSP.appex/Contents/MacOS/MacinTalkAUSP -AppleLanguages ("fr-FR")
+fabiochaput       1100   0,0  0,0 410198240   2736   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+fabiochaput       1101   0,0  0,2 427155008  36288   ??  S     7:10     0:00.42 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+fabiochaput       1099   0,0  0,0 411165120   4016   ??  Ss    7:10     0:00.09 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.xpc/Contents/MacOS/com.apple.StreamingUnzipService
+fabiochaput       1098   0,0  0,2 411507872  28912   ??  Ss    7:10     0:01.10 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+_fpsd             1096   0,0  0,0 427004592   4400   ??  Ss    7:10     0:01.89 /usr/libexec/fairplaydeviceidentityd
+fabiochaput       1095   0,0  0,1 426969952  17904   ??  S     7:10     0:00.34 /System/Library/PrivateFrameworks/OnDeviceStorage.framework/Support/amsondevicestoraged
+fabiochaput       1094   0,0  0,1 426975008  14000   ??  S     7:10     0:00.33 /usr/libexec/promotedcontentd
+fabiochaput       1088   0,0  0,2 412072448  41104   ??  Ss    7:10     0:03.73 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+root              1086   0,0  0,0 410782512   2752   ??  Ss    7:10     0:00.03 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedODRService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedODRService
+_installcoordinationd  1085   0,0  0,0 426933296   4432   ??  Ss    7:10     0:00.04 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+fabiochaput       1082   0,0  0,1 411506656  17024   ??  Ss    7:10     0:00.31 /System/Library/PrivateFrameworks/StocksKit.framework/XPCServices/StocksKitService.xpc/Contents/MacOS/StocksKitService
+fabiochaput       1076   0,0  0,0 410640880   3440   ??  Ss    7:10     0:00.05 /System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/XPCServices/mscamerad-xpc.xpc/Contents/MacOS/mscamerad-xpc
+fabiochaput       1081   0,0  0,0 426967168   4672   ??  S     7:10     0:00.83 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+fabiochaput       1025   0,0  0,1 426968416  10560   ??  S     7:10     0:00.23 /System/Library/CoreServices/diagnostics_agent
+fabiochaput       1080   0,0  0,1 426966720   8816   ??  S     7:10     0:00.32 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+fabiochaput        758   0,0  0,0 426933360   5104   ??  S     7:09     0:00.03 /System/Library/Frameworks/FamilyControls.framework/Versions/A/FamilyControlsAgent
+fabiochaput        924   0,0  0,0 426967536   5056   ??  S     7:09     0:00.19 /usr/libexec/MTLAssetUpgraderD
+fabiochaput        781   0,0  0,1 426968432  12048   ??  S     7:09     0:03.84 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+fabiochaput       1077   0,0  0,1 427015920  13856   ??  S     7:10     0:00.14 /usr/libexec/ptpcamerad
+root              1067   0,0  0,1 426968688   9040   ??  Ss    7:10     0:01.58 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root               768   0,0  0,1 426970576  14032   ??  Ss    7:09     0:00.33 /System/Library/CoreServices/SubmitDiagInfo server-init
+fabiochaput       1065   0,0  0,2 426976400  25408   ??  S     7:10     0:00.63 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+root              1064   0,0  0,0 426932944   3968   ??  Ss    7:10     0:00.05 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+fabiochaput       1063   0,0  0,0 426928864   2624   ??  S     7:10     0:00.02 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+fabiochaput       1062   0,0  0,1 427007376  17680   ??  S     7:10     0:00.83 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+fabiochaput       1060   0,0  0,1 426998816  23616   ??  Ss    7:10     0:03.07 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+fabiochaput       1059   0,0  0,0 410661120   5136   ??  Ss    7:10     0:00.08 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+fabiochaput       1058   0,0  0,0 426966640   8128   ??  S     7:10     0:00.06 /System/Library/PrivateFrameworks/LockdownMode.framework/Versions/A/XPCServices/lockdownmoded
+fabiochaput       1057   0,0  0,3 411605344  48768   ??  S     7:10     0:03.62 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+fabiochaput       1056   0,0  0,1 426967120   8496   ??  S     7:10     0:00.15 /usr/libexec/diagnosticextensionsd
+fabiochaput       1019   0,0  0,1 426969968  12752   ??  S     7:10     0:00.31 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+fabiochaput       1052   0,0  0,1 426969568  11776   ??  S     7:10     0:00.19 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+fabiochaput       1051   0,0  0,0 426971184   7552   ??  S     7:10     0:00.67 /System/Library/CoreServices/appplaceholdersyncd
+fabiochaput       1050   0,0  1,4 1867736128 239696   ??  S     7:10     0:08.47 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (Renderer).app/Contents/MacOS/Spotify Helper (Renderer) --type=renderer --user-data-dir=/Users/fabiochaput/Library/Caches/com.spotify.client --log-severity=disable --user-agent-product=Chrome/134.0.6998.178 Spotify/1.2.62.580 --autoplay-policy=no-user-gesture-required --lang=fr --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1747674544239797 --launch-time-ticks=57756365 --shared-files --field-trial-handle=1718379636,r,1918887458622088672,10380993514034590146,262144 --disable-features=BackForwardCache,GatherProcessRequirementMetrics,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --seatbelt-client=135
+fabiochaput       1048   0,0  0,0 410320080   2400   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput       1045   0,0  0,2 444666032  38848   ??  S     7:10     0:00.38 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=fr --service-sandbox-type=service --user-data-dir=/Users/fabiochaput/Library/Caches/com.spotify.client --log-severity=disable --user-agent-product=Chrome/134.0.6998.178 Spotify/1.2.62.580 --shared-files --field-trial-handle=1718379636,r,1918887458622088672,10380993514034590146,262144 --disable-features=BackForwardCache,GatherProcessRequirementMetrics,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --seatbelt-client=37
+fabiochaput       1044   0,0  0,4 444961888  58880   ??  S     7:10     0:05.77 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=fr --service-sandbox-type=network --start-stack-profiler --user-data-dir=/Users/fabiochaput/Library/Caches/com.spotify.client --log-severity=disable --user-agent-product=Chrome/134.0.6998.178 Spotify/1.2.62.580 --shared-files --field-trial-handle=1718379636,r,1918887458622088672,10380993514034590146,262144 --disable-features=BackForwardCache,GatherProcessRequirementMetrics,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --seatbelt-client=17
+fabiochaput       1043   0,0  0,4 445142544  61584   ??  S     7:10     0:02.50 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (GPU).app/Contents/MacOS/Spotify Helper (GPU) --type=gpu-process --start-stack-profiler --user-data-dir=/Users/fabiochaput/Library/Caches/com.spotify.client --log-severity=disable --user-agent-product=Chrome/134.0.6998.178 Spotify/1.2.62.580 --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,1918887458622088672,10380993514034590146,262144 --disable-features=BackForwardCache,GatherProcessRequirementMetrics,PartitionAllocDanglingPtr,PartitionAllocUnretainedDanglingPtr --variations-seed-version --seatbelt-client=17
+fabiochaput       1041   0,0  0,1 426919072  14544   ??  Ss    7:10     0:00.10 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+fabiochaput       1040   0,0  0,0 426932928    496   ??  Ss    7:10     0:00.02 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+fabiochaput       1039   0,0  0,2 444501568  27472   ??  S     7:10     0:00.03 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --monitor-self-annotation=ptype=crashpad-handler --type=crashpad-handler --max-uploads=5 --max-db-size=20 --max-db-age=5 --database=/Users/fabiochaput/Library/Caches/com.spotify.client --url=https://crashdump.spotify.com:443/ --annotation=platform=macosarm64 --annotation=product=spotify --annotation=version=1.2.62.580 --handshake-fd=6
+fabiochaput       1037   0,0  0,3 411133984  42736   ??  Ss    7:10     0:00.62 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+fabiochaput       1036   0,0  0,1 426972448  17696   ??  S     7:10     0:00.46 cloudphotod
+fabiochaput       1035   0,0  1,2 445429952 204688   ??  S     7:10     0:27.87 /Applications/Spotify.app/Contents/MacOS/Spotify --autostart
+fabiochaput       1032   0,0  0,1 427038944  19920   ??  S     7:10     0:00.30 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+_driverkit        1034   0,0  0,0 426851568    800   ??  Ss    7:10     0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e8c com.apple.IOUserBluetoothSerialDriver
+_driverkit        1033   0,0  0,0 426851568    800   ??  Ss    7:10     0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000e8a com.apple.IOUserBluetoothSerialDriver
+fabiochaput       1030   0,0  0,0 426932528   4368   ??  S     7:10     0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+fabiochaput       1013   0,0  0,2 426981264  38672   ??  S     7:10     0:02.55 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+fabiochaput       1026   0,0  0,2 411734240  41680   ??  S     7:10     0:00.27 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+fabiochaput       1023   0,0  0,1 411276944  15392   ??  S     7:10     0:00.09 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+fabiochaput       1016   0,0  0,0 410675504   7840   ??  S     7:10     0:00.02 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+root              1029   0,0  0,0 426932496   3072   ??  Ss    7:10     0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+fabiochaput       1009   0,0  0,1 426996848  10816   ??  Ss    7:10     0:00.62 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+_modelmanagerd    1008   0,0  0,1 426998656  14800   ??  Ss    7:10     0:00.50 /usr/libexec/modelmanagerd
+_netbios          1006   0,0  0,0 426933344   3504   ??  SNs   7:10     0:00.11 /usr/sbin/netbiosd
+fabiochaput       1005   0,0  0,1 426968304  18048   ??  S     7:10     0:01.46 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+fabiochaput       1004   0,0  0,1 427021328  18960   ??  S     7:10     0:01.17 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+fabiochaput       1003   0,0  0,1 426987808   9872   ??  S     7:10     0:04.10 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+root              1002   0,0  0,0 426967136   7056   ??  Ss    7:09     0:00.19 /usr/libexec/countryd
+fabiochaput        999   0,0  0,0 426933120   6368   ??  S     7:09     0:00.06 /usr/libexec/keychainsharingmessagingd
+fabiochaput        998   0,0  0,1 426978752  16112   ??  SN    7:09     0:05.26 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+fabiochaput        997   0,0  0,1 427173696  11360   ??  S     7:09     0:00.07 /System/Cryptexes/App/usr/libexec/webpushd --machServiceName com.apple.webkit.webpushd.service
+fabiochaput        996   0,0  0,1 426971872  12144   ??  S     7:09     0:00.11 /usr/libexec/keyboardservicesd
+fabiochaput        995   0,0  0,1 427023664  16384   ??  S     7:09     0:00.85 /usr/libexec/naturallanguaged
+fabiochaput        994   0,0  1,3 427849440 216368   ??  S     7:09     0:07.25 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+_captiveagent      993   0,0  0,0 426967888   6368   ??  Ss    7:09     0:00.09 /usr/libexec/captiveagent
+fabiochaput        992   0,0  0,1 426945904  19344   ??  Ss    7:09     0:00.17 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+fabiochaput        988   0,0  0,0 426966272   6896   ??  S     7:09     0:00.06 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+root               955   0,0  0,1 411462288  11312   ??  Ss    7:09     0:00.11 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+root               951   0,0  0,0 411199840   7600   ??  Ss    7:09     0:00.11 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+root               720   0,0  0,1 426967152  11360   ??  Ss    7:09     0:00.97 /System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd
+fabiochaput        972   0,0  0,1 412049216  15696   ??  Ss    7:09     0:00.08 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+fabiochaput        971   0,0  0,2 1623597536  37856   ??  S     7:09     0:02.20 /private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=fr --service-sandbox-type=none --user-data-dir=/Users/fabiochaput/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,3472543302097025371,5680808720785082779,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+fabiochaput        970   0,0  0,4 1623608272  73488   ??  S     7:09     0:04.91 /private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=fr --service-sandbox-type=none --user-data-dir=/Users/fabiochaput/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,3472543302097025371,5680808720785082779,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+fabiochaput        969   0,0  0,1 427132608  12064   ??  Ss    7:09     0:00.28 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+root               968   0,0  0,0 426940640   3456   ??  Ss    7:09     0:00.05 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+root               966   0,0  0,1 426972032   9472   ??  Ss    7:09     0:00.15 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+fabiochaput        967   0,0  0,4 1623594960  64528   ??  S     7:09     0:01.59 /private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --type=utility --utility-sub-type=node.mojom.NodeService --lang=fr --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=/Users/fabiochaput/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,3472543302097025371,5680808720785082779,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+_accessoryupdater   952   0,0  0,0 426933168   3728   ??  Ss    7:09     0:00.06 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/ThunderboltAccessoryUpdaterService.xpc/Contents/MacOS/ThunderboltAccessoryUpdaterService
+fabiochaput        963   0,0  0,0 410217744   1792   ??  Ss    7:09     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root               962   0,0  0,0 426928832   2384   ??  Ss    7:09     0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+fabiochaput        961   0,0  0,2 427006896  26000   ??  S     7:09     0:01.37 /System/Library/Frameworks/Translation.framework/translationd
+root               960   0,0  0,0 426966704   6112   ??  Ss    7:09     0:01.04 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+fabiochaput        959   0,0  0,7 433035856 123312   ??  Ss    7:09     0:38.83 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+fabiochaput        958   0,0  0,1 426919072  14544   ??  Ss    7:09     0:00.10 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+fabiochaput        947   0,0  0,1 411204416  15488   ??  Ss    7:09     0:00.19 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+fabiochaput        953   0,0  0,3 411126288  42496   ??  Ss    7:09     0:00.84 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+fabiochaput        948   0,0  0,1 426966560   8528   ??  S     7:09     0:00.16 /usr/libexec/inputanalyticsd
+fabiochaput        945   0,0  0,0 426932976   6064   ??  S     7:09     0:00.33 /usr/libexec/gamecontrolleragentd
+_assetcache        934   0,0  0,0 426968800   5984   ??  Ss    7:09     0:00.06 /usr/libexec/AssetCache/AssetCache
+fabiochaput        933   0,0  0,9 1621935504 151328   ??  S     7:09     0:04.69 /private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/fabiochaput/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=fr --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1747674544068765 --launch-time-ticks=53995213 --shared-files --field-trial-handle=1718379636,r,3472543302097025371,5680808720785082779,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --vscode-window-config=vscode:33d30285-90d5-4821-9caf-95012b60b2de --seatbelt-client=64
+fabiochaput        930   0,0  0,1 426969328   8944   ??  S     7:09     0:00.13 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+fabiochaput        929   0,0  0,2 426977248  32000   ??  S     7:09     0:04.48 /usr/libexec/siriknowledged
+fabiochaput        928   0,0  0,1 427001440  14784   ??  S     7:09     0:00.20 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+fabiochaput        927   0,0  0,0 410930416   4176   ??  S     7:09     0:00.13 /System/Library/Frameworks/MediaExtension.framework/Versions/A/Helpers/MENotificationAgent
+fabiochaput        925   0,0  0,1 426967056   8512   ??  S     7:09     0:02.16 /usr/libexec/swcd
+fabiochaput        920   0,0  0,2 444015968  25824   ??  S     7:09     0:00.83 /private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=fr --service-sandbox-type=network --user-data-dir=/Users/fabiochaput/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,3472543302097025371,5680808720785082779,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=36
+fabiochaput        916   0,0  0,2 426989344  32992   ??  S     7:09     0:02.23 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+fabiochaput        914   0,0  0,4 427231760  63440   ??  S     7:09    17:35.07 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+fabiochaput        917   0,0  0,3 444208608  44176   ??  S     7:09     0:01.11 /private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --user-data-dir=/Users/fabiochaput/Library/Application Support/Code --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,3472543302097025371,5680808720785082779,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=36
+root               913   0,0  0,0 426932944   2400   ??  Ss    7:09     0:00.43 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+fabiochaput        909   0,0  0,0 443709952   3760   ??  S     7:09     0:00.01 /var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/fabiochaput/Library/Application Support/Code/Crashpad --url=appcenter://code?aid=de75e3cc-e22f-4f42-a03f-1409c21d8af8&uid=032c01d0-9b7b-4af3-a66f-256e8c152952&iid=032c01d0-9b7b-4af3-a66f-256e8c152952&sid=032c01d0-9b7b-4af3-a66f-256e8c152952 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.98.2 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=34.2.0 --handshake-fd=24
+fabiochaput        899   0,0  0,0 426932400   3600   ??  S     7:09     0:00.04 /usr/libexec/metrickitd
+fabiochaput        897   0,0  0,1 426977584  14448   ??  S     7:09     0:00.36 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+_audiomxd          890   0,0  0,1 426967328  11872   ??  Ss    7:09     0:00.20 /usr/libexec/audiomxd
+root               888   0,0  0,0 426932960   1648   ??  Ss    7:09     0:00.06 /usr/libexec/taskgated
+fabiochaput        886   0,0  0,1 426965920   8944   ??  S     7:09     0:00.11 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+fabiochaput        885   0,0  0,0 426928832   2368   ??  Ss    7:09     0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+fabiochaput        873   0,0  0,2 412271312  39696   ??  S     7:09     0:01.99 Contents/Resources/ChatGPTHelper
+fabiochaput        871   0,0  0,1 426966864   9312   ??  S     7:09     0:00.75 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/ModelCatalogAgent
+fabiochaput        872   0,0  0,0 426966544   7840   ??  S     7:09     0:00.11 /System/Library/Image Capture/Support/icdd
+fabiochaput        869   0,0  0,1 426972000  20560   ??  S     7:09     0:13.28 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+fabiochaput        868   0,0  0,1 410641392   8512   ??  S     7:09     0:00.31 /usr/libexec/SidecarRelay
+fabiochaput        867   0,0  0,0 426966512   3680   ??  S     7:09     0:00.02 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+fabiochaput        866   0,0  0,1 427176656  16368   ??  S     7:09     0:01.26 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+fabiochaput        865   0,0  0,1 426966096  10112   ??  S     7:09     0:00.04 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+fabiochaput        739   0,0  0,2 426988432  25280   ??  S     7:09     0:01.66 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+fabiochaput        858   0,0  0,1 426971968  13168   ??  S     7:09     0:00.24 /System/Library/Frameworks/FinanceKit.framework/financed
+fabiochaput        855   0,0  0,1 426968272  17008   ??  Ss    7:09     0:00.03 /System/Applications/Weather.app/Contents/PlugIns/WeatherIntents.appex/Contents/MacOS/WeatherIntents -AppleLanguages ("fr-FR")
+fabiochaput        854   0,0  0,0 426967344   7280   ??  Ss    7:09     0:00.10 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+root               853   0,0  0,0 410945888   7216   ??  Ss    7:09     0:00.05 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+fabiochaput        851   0,0  0,1 411900288  18720   ??  Ss    7:09     0:00.81 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+root               850   0,0  0,0 426933984   2272   ??  Ss    7:09     0:00.15 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root               849   0,0  0,1 426968064  15072   ??  Ss    7:09     0:02.18 /usr/libexec/wifianalyticsd
+_nsurlsessiond     847   0,0  0,0 426932880   1936   ??  S     7:09     0:00.26 /usr/sbin/distnoted agent
+root               848   0,0  0,1 426966704   9296   ??  Ss    7:09     0:00.12 /System/Library/CoreServices/osanalyticshelper server-init
+fabiochaput        845   0,0  0,1 426975264  23392   ??  S     7:09     0:02.46 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+fabiochaput        844   0,0  0,2 1596787760  31968   ??  S     7:09     0:12.89 /Applications/Arduino IDE.app/Contents/Frameworks/Arduino IDE Helper.app/Contents/MacOS/Arduino IDE Helper /Applications/Arduino IDE.app/Contents/Resources/app/lib/backend/ipc-bootstrap --watchOptions={}
+fabiochaput        843   0,0  0,0 426932832   4672   ??  S     7:09     0:00.05 /usr/sbin/BTLEServerAgent
+fabiochaput        840   0,0  0,0 426968384   7840   ??  S     7:09     0:00.10 /usr/libexec/swtransparencyd
+fabiochaput        838   0,0  0,0 426966272   3888   ??  S     7:09     0:00.03 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+fabiochaput        839   0,0  0,1 426924320  14928   ??  S     7:09     0:00.44 /usr/libexec/avconferenced
+fabiochaput        836   0,0  1,1 1596885760 185104   ??  S     7:09     0:17.87 /Applications/Arduino IDE.app/Contents/Frameworks/Arduino IDE Helper (Renderer).app/Contents/MacOS/Arduino IDE Helper (Renderer) --type=renderer --user-data-dir=/Users/fabiochaput/Library/Application Support/arduino-ide --app-path=/Applications/Arduino IDE.app/Contents/Resources/app --no-sandbox --no-zygote --lang=fr --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1747674544064269 --launch-time-ticks=50478623 --shared-files --field-trial-handle=1718379636,r,13158958001149766741,3105593802657867506,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=SpareRendererForSitePerProcess --variations-seed-version
+_accessoryupdater   646   0,0  0,0 410779328   2704   ??  Ss    7:09     0:00.04 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceAFU.xpc/Contents/MacOS/UARPUpdaterServiceAFU
+_accessoryupdater   645   0,0  0,0 410691856   4016   ??  Ss    7:09     0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDFU.xpc/Contents/MacOS/UARPUpdaterServiceDFU
+_accessoryupdater   647   0,0  0,0 426932576   2976   ??  Ss    7:09     0:00.04 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceHID.xpc/Contents/MacOS/UARPUpdaterServiceHID
+_accessoryupdater   643   0,0  0,0 410964768   4464   ??  Ss    7:09     0:00.05 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceUSBPD.xpc/Contents/MacOS/UARPUpdaterServiceUSBPD
+fabiochaput        835   0,0  0,5 411905168  87952   ??  S     7:09     0:05.72 /Applications/Arduino IDE.app/Contents/Resources/app/lib/backend/resources/arduino-cli daemon --port 0 --config-file /Users/fabiochaput/.arduinoIDE/arduino-cli.yaml -v
+_accessoryupdater   644   0,0  0,0 426965808   5232   ??  Ss    7:09     0:00.06 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceLegacyAudio.xpc/Contents/MacOS/UARPUpdaterServiceLegacyAudio
+_accessoryupdater   642   0,0  0,0 426973360   5728   ??  Ss    7:09     0:00.06 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDisplay.xpc/Contents/MacOS/UARPUpdaterServiceDisplay
+fabiochaput        832   0,0  0,0 426979312   7616   ??  Ss    7:09     0:00.02 /System/Library/ExtensionKit/Extensions/BluetoothSettingsAppIntentsWidgetExtension.appex/Contents/MacOS/BluetoothSettingsAppIntentsWidgetExtension
+fabiochaput        831   0,0  0,1 426971168  17728   ??  Ss    7:09     0:00.05 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetIntentsExtension.appex/Contents/MacOS/ScreenTimeWidgetIntentsExtension -AppleLanguages ("fr-FR")
+fabiochaput        830   0,0  0,0 426979616   7056   ??  Ss    7:09     0:00.02 /System/Library/ExtensionKit/Extensions/AppearanceIntentsExtension.appex/Contents/MacOS/AppearanceIntentsExtension
+fabiochaput        829   0,0  0,1 426978304  23504   ??  S     7:09     0:00.68 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+fabiochaput        828   0,0  0,0 426979200   7392   ??  Ss    7:09     0:00.02 /System/Applications/Tips.app/Contents/PlugIns/TipsWidgetExtension.appex/Contents/MacOS/TipsWidgetExtension
+fabiochaput        826   0,0  0,0 426928272   3856   ??  S     7:09     0:00.08 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+fabiochaput        825   0,0  0,1 426997584  18528   ??  S     7:09     0:00.95 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+fabiochaput        824   0,0  1,7 427374016 277344   ??  S     7:09     0:01.86 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+fabiochaput        823   0,0  0,1 426979712  17840   ??  Ss    7:09     0:00.02 /System/Applications/VoiceMemos.app/Contents/PlugIns/VoiceMemosSettingsWidgetExtension.appex/Contents/MacOS/VoiceMemosSettingsWidgetExtension
+fabiochaput        821   0,0  0,1 426996384  12816   ??  Ss    7:09     0:00.08 /System/Applications/Notes.app/Contents/PlugIns/com.apple.Notes.IntentsExtension.appex/Contents/MacOS/com.apple.Notes.IntentsExtension -AppleLanguages ("fr-FR")
+fabiochaput        822   0,0  0,0 426932912   4512   ??  S     7:09     0:00.04 /System/Library/PrivateFrameworks/CoreThreadCommissionerService.framework/CoreThreadCommissionerServiced
+fabiochaput        817   0,0  0,1 427144832   8640   ??  Ss    7:09     0:00.03 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariWidgetExtension.appex/Contents/MacOS/SafariWidgetExtension
+fabiochaput        819   0,0  0,3 426990912  50304   ??  S     7:09     0:05.38 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+fabiochaput        818   0,0  0,3 1596761984  43504   ??  Ss    7:09     0:06.15 /Applications/Arduino IDE.app/Contents/Frameworks/Arduino IDE Helper.app/Contents/MacOS/Arduino IDE Helper /Applications/Arduino IDE.app/Contents/Resources/app/lib/backend/main.js
+fabiochaput        816   0,0  0,1 426998240  14416   ??  Ss    7:09     0:00.07 /System/Applications/Reminders.app/Contents/PlugIns/RemindersIntentsExtension.appex/Contents/MacOS/RemindersIntentsExtension -AppleLanguages ("fr-FR")
+fabiochaput        814   0,0  0,1 426968848  10880   ??  S     7:09     0:00.27 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+fabiochaput        815   0,0  0,0 426979312   7040   ??  Ss    7:09     0:00.01 /System/Library/ExtensionKit/Extensions/WallpaperIntentsExtension.appex/Contents/MacOS/WallpaperIntentsExtension
+fabiochaput        812   0,0  0,1 427048608  23536   ??  S     7:09     0:00.82 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+fabiochaput        813   0,0  0,2 426975456  26096   ??  S     7:09     0:01.37 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+fabiochaput        811   0,0  0,1 427134448  17808   ??  S     7:09     0:00.51 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+fabiochaput        810   0,0  0,0 410331344   2400   ??  Ss    7:09     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+fabiochaput        809   0,0  0,0 426932960   3376   ??  S     7:09     0:00.04 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+fabiochaput        806   0,0  0,1 411058912   9040   ??  Ss    7:09     0:00.07 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+fabiochaput        808   0,0  0,0 426979504   7056   ??  Ss    7:09     0:00.01 /System/Library/ExtensionKit/Extensions/DisplaysSettingsIntentsExtension.appex/Contents/MacOS/DisplaysSettingsIntentsExtension
+fabiochaput        807   0,0  0,1 426979200   8576   ??  Ss    7:09     0:00.02 /System/Applications/Notes.app/Contents/PlugIns/com.apple.Notes.WidgetExtension.appex/Contents/MacOS/com.apple.Notes.WidgetExtension
+fabiochaput        805   0,0  0,1 426979968   9904   ??  Ss    7:09     0:00.03 /System/Applications/Reminders.app/Contents/PlugIns/RemindersWidgetExtension.appex/Contents/MacOS/RemindersWidgetExtension
+root               804   0,0  0,0 426941168   1344   ??  Ss    7:09     0:00.03 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+fabiochaput        803   0,0  0,1 426966272   9104   ??  S     7:09     0:00.09 /System/Cryptexes/App/usr/libexec/SafariNotificationAgent
+fabiochaput        801   0,0  0,0 426979760   7472   ??  Ss    7:09     0:00.02 /System/Library/ExtensionKit/Extensions/ControlCenterSettingsIntents.appex/Contents/MacOS/ControlCenterSettingsIntents
+fabiochaput        800   0,0  0,2 426978736  34416   ??  S     7:09     0:02.71 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+fabiochaput        799   0,0  0,0 426970656   8256   ??  S     7:09     0:00.14 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+fabiochaput        798   0,0  0,0 426979328   7520   ??  Ss    7:09     0:00.01 /System/Library/ExtensionKit/Extensions/ScreenSaverIntentsExtension.appex/Contents/MacOS/ScreenSaverIntentsExtension
+fabiochaput        797   0,0  0,1 427148032  11776   ??  Ss    7:09     0:00.04 /System/Applications/Shortcuts.app/Contents/PlugIns/ShortcutsWidgetExtension.appex/Contents/MacOS/ShortcutsWidgetExtension
+fabiochaput        796   0,0  0,1 426967520  11264   ??  S     7:09     0:00.14 /System/Library/CoreServices/ScopedBookmarkAgent
+fabiochaput        795   0,0  0,0 426980752   7264   ??  Ss    7:09     0:00.02 /System/Library/ExtensionKit/Extensions/AssistantSettingsControlsExtension.appex/Contents/MacOS/AssistantSettingsControlsExtension
+fabiochaput        792   0,0  0,0 426968080   7168   ??  Ss    7:09     0:00.05 /System/Library/PrivateFrameworks/MobileTimer.framework/PlugIns/MobileTimerIntents.appex/Contents/MacOS/MobileTimerIntents -AppleLanguages ("fr-FR")
+fabiochaput        794   0,0  0,0 34815828   6092   ??  Ss    7:09     0:00.50 /System/Applications/Music.app/Contents/XPCServices/VisualizerService_x86.xpc/Contents/MacOS/VisualizerService_x86
+fabiochaput        793   0,0  0,1 411277408  14704   ??  Ss    7:09     0:00.10 /System/Applications/Music.app/Contents/XPCServices/VisualizerService.xpc/Contents/MacOS/VisualizerService
+fabiochaput        791   0,0  0,0 426979536   7024   ??  Ss    7:09     0:00.01 /System/Library/ExtensionKit/Extensions/DateTimeIntentsExtension.appex/Contents/MacOS/DateTimeIntentsExtension
+fabiochaput        789   0,0  0,2 426983696  25360   ??  S     7:09     0:01.26 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+fabiochaput        790   0,0  0,0 426932976   3840   ??  Ss    7:09     0:00.10 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+fabiochaput        788   0,0  0,1 427086608  16016   ??  S     7:09     0:00.97 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+fabiochaput        787   0,0  0,1 427001104  15072   ??  S     7:09     0:00.38 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+fabiochaput        786   0,0  0,1 426984480   9120   ??  Ss    7:09     0:00.06 /System/Library/ExtensionKit/Extensions/AccessibilitySettingsWidgetExtension.appex/Contents/MacOS/AccessibilitySettingsWidgetExtension
+fabiochaput        785   0,0  0,0 426979408   7168   ??  Ss    7:09     0:00.01 /System/Library/ExtensionKit/Extensions/SoftwareUpdateSettingsWidgetExtension.appex/Contents/MacOS/SoftwareUpdateSettingsWidgetExtension
+fabiochaput        784   0,0  0,1 426980416  19232   ??  Ss    7:09     0:00.03 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+fabiochaput        783   0,0  0,2 427012352  31712   ??  S     7:09     0:02.52 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+fabiochaput        782   0,0  0,1 431365632  18112   ??  S     7:09     0:00.93 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+root               778   0,0  0,0 410329488   3968   ??  Ss    7:09     0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+fabiochaput        777   0,0  0,0 426980304   7040   ??  Ss    7:09     0:00.02 /System/Library/ExtensionKit/Extensions/DesktopSettingsIntents.appex/Contents/MacOS/DesktopSettingsIntents
+fabiochaput        780   0,0  0,1 426973152  15840   ??  S     7:09     0:00.72 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+root               779   0,0  0,1 426967808  10384   ??  Ss    7:09     0:02.13 /usr/libexec/audioanalyticsd
+fabiochaput        776   0,0  0,1 426986320  13152   ??  Ss    7:09     0:00.06 /System/Applications/Photos.app/Contents/PlugIns/PhotosReliveWidget.appex/Contents/MacOS/PhotosReliveWidget
+fabiochaput        775   0,0  0,1 426979840  17696   ??  Ss    7:09     0:00.02 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetPeople.appex/Contents/MacOS/FindMyWidgetPeople
+fabiochaput        772   0,0  0,1 426991632  22928   ??  S     7:09     0:02.45 /usr/libexec/networkserviceproxy
+fabiochaput        773   0,0  0,1 426971472  21152   ??  S     7:09     0:00.61 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+fabiochaput        771   0,0  0,0 410329328   2256   ??  Ss    7:09     0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+fabiochaput        770   0,0  0,2 427092128  35056   ??  S     7:09     0:00.26 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+fabiochaput        769   0,0  0,1 426976912  13232   ??  S     7:09     0:00.50 /usr/libexec/neagent
+fabiochaput        767   0,0  0,1 426980080  14368   ??  S     7:09     0:00.30 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+fabiochaput        765   0,0  0,2 426982864  25408   ??  Ss    7:09     0:00.06 /System/Applications/Home.app/Contents/PlugIns/HomeWidget.appex/Contents/MacOS/HomeWidget
+fabiochaput        766   0,0  0,0 426929008   3248   ??  S     7:09     0:00.02 /usr/libexec/spindump_agent
+root               764   0,0  0,1 426971392  16784   ??  Ss    7:09     0:07.51 /usr/sbin/spindump
+fabiochaput        762   0,0  0,1 426982592  23696   ??  Ss    7:09     0:00.08 /System/Applications/Home.app/Contents/PlugIns/HomeEnergyWidgetsExtension.appex/Contents/MacOS/HomeEnergyWidgetsExtension
+_fpsd              761   0,0  0,0 426936304   5184   ??  Ss    7:09     0:00.78 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+fabiochaput        760   0,0  0,1 427019936  22432   ??  Ss    7:09     0:00.07 /System/Applications/Podcasts.app/Contents/PlugIns/PodcastsWidget.appex/Contents/MacOS/PodcastsWidget
+fabiochaput        759   0,0  0,0 426966208   6704   ??  Ss    7:09     0:00.01 /System/Library/PrivateFrameworks/CalendarWidget.framework/PlugIns/IntentsExtension.appex/Contents/MacOS/IntentsExtension -AppleLanguages ("fr-FR")
+fabiochaput        757   0,0  0,1 426979600  19040   ??  Ss    7:09     0:00.03 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+fabiochaput        756   0,0  0,1 426970512  12960   ??  S     7:09     0:00.26 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+fabiochaput        755   0,0  0,1 426979824  17696   ??  Ss    7:09     0:00.02 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetItems.appex/Contents/MacOS/FindMyWidgetItems
+fabiochaput        754   0,0  0,1 426973520  21504   ??  S     7:09     0:01.52 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+fabiochaput        753   0,0  0,1 426957664  11696   ??  Ss    7:09     0:00.15 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput        752   0,0  0,1 426957664  12144   ??  Ss    7:09     0:00.22 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput        749   0,0  0,1 426976928  12208   ??  Ss    7:09     0:00.34 /System/Library/CoreServices/PeopleViewService.app/Contents/PlugIns/SelectPerson_iOS.appex/Contents/MacOS/SelectPerson_iOS -AppleLanguages ("fr-FR")
+root               751   0,0  0,1 426957648  14080   ??  Ss    7:09     0:00.44 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+fabiochaput        746   0,0  0,6 432420944 105904   ??  S     7:09     3:09.84 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+root               750   0,0  0,1 427000992  16176   ??  Ss    7:09     0:00.23 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+fabiochaput        745   0,0  0,1 426972976  11776   ??  S     7:09     0:00.97 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+fabiochaput        748   0,0  0,1 411468128  25072   ??  S     7:09     0:01.44 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+fabiochaput        747   0,0  0,2 411419792  36240   ??  S     7:09     0:00.15 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+fabiochaput        744   0,0  0,2 411135664  26816   ??  S     7:09     0:00.89 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+fabiochaput        743   0,0  0,2 427024688  27296   ??  Ss    7:09     0:00.40 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+fabiochaput        742   0,0  0,2 427004768  26512   ??  S     7:09     0:01.76 /usr/libexec/linkd
+fabiochaput        740   0,0  0,3 412312976  52048   ??  S     7:09     0:02.39 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+fabiochaput        741   0,0  0,1 444014592  22384   ??  S     7:09     0:04.23 /Applications/Arduino IDE.app/Contents/Frameworks/Arduino IDE Helper.app/Contents/MacOS/Arduino IDE Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=fr --service-sandbox-type=network --user-data-dir=/Users/fabiochaput/Library/Application Support/arduino-ide --shared-files --field-trial-handle=1718379636,r,13158958001149766741,3105593802657867506,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=34
+fabiochaput        738   0,0  0,0 426966864   7600   ??  S     7:09     0:01.23 /System/Library/CoreServices/lockoutagent
+fabiochaput        737   0,0  0,2 444200592  33472   ??  S     7:09     0:02.90 /Applications/Arduino IDE.app/Contents/Frameworks/Arduino IDE Helper (GPU).app/Contents/MacOS/Arduino IDE Helper (GPU) --type=gpu-process --user-data-dir=/Users/fabiochaput/Library/Application Support/arduino-ide --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAcAAAAAAABoBwAAAAAAAHgCAABOAAAAcAIAAAAAAAB4AgAAAAAAAIACAAAAAAAAiAIAAAAAAACQAgAAAAAAAJgCAAAAAAAAoAIAAAAAAACoAgAAAAAAALACAAAAAAAAuAIAAAAAAADAAgAAAAAAAMgCAAAAAAAA0AIAAAAAAADYAgAAAAAAAOACAAAAAAAA6AIAAAAAAADwAgAAAAAAAPgCAAAAAAAAAAMAAAAAAAAIAwAAAAAAABADAAAAAAAAGAMAAAAAAAAgAwAAAAAAACgDAAAAAAAAMAMAAAAAAAA4AwAAAAAAAEADAAAAAAAASAMAAAAAAABQAwAAAAAAAFgDAAAAAAAAYAMAAAAAAABoAwAAAAAAAHADAAAAAAAAeAMAAAAAAACAAwAAAAAAAIgDAAAAAAAAkAMAAAAAAACYAwAAAAAAAKADAAAAAAAAqAMAAAAAAACwAwAAAAAAALgDAAAAAAAAwAMAAAAAAADIAwAAAAAAANADAAAAAAAA2AMAAAAAAADgAwAAAAAAAOgDAAAAAAAA8AMAAAAAAAD4AwAAAAAAAAAEAAAAAAAACAQAAAAAAAAQBAAAAAAAABgEAAAAAAAAIAQAAAAAAAAoBAAAAAAAADAEAAAAAAAAOAQAAAAAAABABAAAAAAAAEgEAAAAAAAAUAQAAAAAAABYBAAAAAAAAGAEAAAAAAAAaAQAAAAAAABwBAAAAAAAAHgEAAAAAAAAgAQAAAAAAACIBAAAAAAAAJAEAAAAAAAAmAQAAAAAAACgBAAAAAAAAKgEAAAAAAAAsAQAAAAAAAC4BAAAAAAAAMAEAAAAAAAAyAQAAAAAAADQBAAAAAAAANgEAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAABAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAMAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAJAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAAwAAAAQAAAAAAAAAAEAAAAOAAAAEAAAAAAAAAABAAAADwAAABAAAAAAAAAAAQAAABAAAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAQAAABAAAAAAAAAABAAAAAIAAAAQAAAAAAAAAAQAAAADAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACQAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAAMAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABAAAAA8AAAAQAAAAAAAAAAQAAAAQAAAAEAAAAAAAAAAHAAAAAAAAABAAAAAAAAAABwAAAAEAAAAQAAAAAAAAAAcAAAACAAAAEAAAAAAAAAAHAAAAAwAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAgAAAABAAAAEAAAAAAAAAAIAAAAAgAAABAAAAAAAAAACAAAAAMAAAAQAAAAAAAAAAgAAAAGAAAAEAAAAAAAAAAIAAAABwAAABAAAAAAAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAJAAAAEAAAAAAAAAAIAAAACwAAABAAAAAAAAAACAAAAAwAAAAQAAAAAAAAAAgAAAAOAAAAEAAAAAAAAAAIAAAADwAAABAAAAAAAAAACAAAABAAAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAQAAABAAAAAAAAAACgAAAAIAAAAQAAAAAAAAAAoAAAADAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACQAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAAMAAAAEAAAAAAAAAAKAAAADgAAABAAAAAAAAAACgAAAA8AAAAQAAAAAAAAAAoAAAAQAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=1718379636,r,13158958001149766741,3105593802657867506,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma,kWebSQLAccess --disable-features=SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=34
+fabiochaput        736   0,0  0,0 426932992   5376   ??  S     7:09     0:00.03 /System/Library/CoreServices/APFSUserAgent
+fabiochaput        734   0,0  0,2 427002320  33024   ??  S     7:09     0:05.33 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+fabiochaput        733   0,0  0,1 426981024  18608   ??  S     7:09     0:00.31 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+fabiochaput        735   0,0  0,1 426983616  11504   ??  Ss    7:09     0:00.12 /System/Library/ExtensionKit/Extensions/NotificationsSettingsIntents.appex/Contents/MacOS/NotificationsSettingsIntents
+fabiochaput        732   0,0  0,1 426989792  13984   ??  Ss    7:09     0:00.14 /System/Library/CoreServices/PeopleViewService.app/Contents/PlugIns/PeopleWidget_macOSExtension.appex/Contents/MacOS/PeopleWidget_macOSExtension
+fabiochaput        731   0,0  0,0 427136576   2224   ??  S     7:09     0:00.02 /System/Library/CoreServices/ReportCrash agent
+fabiochaput        730   0,0  0,1 426977232  11344   ??  Ss    7:09     0:00.09 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+fabiochaput        726   0,0  0,1 426977424  16208   ??  Ss    7:09     0:00.94 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+fabiochaput        729   0,0  0,3 427235408  57632   ??  Ss    7:09     0:01.85 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+fabiochaput        727   0,0  0,0 426966816   6784   ??  S     7:09     0:00.22 /System/Library/CoreServices/pbs
+fabiochaput        725   0,0  0,3 427257664  57584   ??  Ss    7:09     0:03.36 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+fabiochaput        728   0,0  0,0 426934064   4832   ??  Ss    7:09     0:00.02 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+fabiochaput        724   0,0  0,1 426974784  14560   ??  S     7:09     0:00.41 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+fabiochaput        723   0,0  0,2 427012672  33328   ??  Ss    7:09     0:02.00 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
+fabiochaput        722   0,0  0,1 426944208  11968   ??  Ss    7:09     0:01.46 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+fabiochaput        714   0,0  0,0 426933920   8336   ??  S     7:09     0:00.07 /usr/libexec/seserviced
+fabiochaput        711   0,0  0,1 426967136   9952   ??  S     7:09     0:00.10 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+fabiochaput        710   0,0  0,1 427001184  15648   ??  S     7:09     0:00.13 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+_oahd              718   0,0  0,0 426928864   1312   ??  Ss    7:09     0:00.07 /usr/libexec/rosetta/oahd
+fabiochaput        717   0,0  0,0 426966848   6016   ??  S     7:09     0:00.08 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+fabiochaput        709   0,0  0,0 34030008   1484   ??  Ss    7:09     0:01.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+root               706   0,0  0,1 426968704  12384   ??  Ss    7:09     0:00.17 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+fabiochaput        703   0,0  0,1 426976960   9392   ??  S     7:09     0:00.08 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+fabiochaput        698   0,0  0,0 426934000   3824   ??  S     7:09     0:00.06 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+fabiochaput        699   0,0  0,3 426985776  49456   ??  S     7:09     0:00.96 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+fabiochaput        696   0,0  0,1 426979776  17296   ??  S     7:09     0:00.54 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+fabiochaput        697   0,0  0,3 411084896  56944   ??  Ss    7:09     0:00.58 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+root               695   0,0  0,0 426966752   5472   ??  Ss    7:09     0:00.04 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+fabiochaput        694   0,0  0,0 426933488   1904   ??  Ss    7:09     0:00.01 /System/Library/PrivateFrameworks/login.framework/Versions/A/XPCServices/LoginUserService.xpc/Contents/MacOS/LoginUserService
+fabiochaput        693   0,0  0,2 427143680  36656   ??  S     7:09     0:02.45 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+fabiochaput        692   0,0  0,1 426967600  11728   ??  S     7:09     0:05.22 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+fabiochaput        690   0,0  0,1 427656304  20416   ??  S     7:09     0:01.46 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+fabiochaput        688   0,0  0,1 426997840  15328   ??  S     7:09     0:01.30 /usr/libexec/replayd
+fabiochaput        687   0,0  0,0 426965872   7696   ??  S     7:09     0:00.27 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+fabiochaput        674   0,0  0,2 427153584  36912   ??  S     7:09     0:00.20 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+fabiochaput        685   0,0  0,1 426981808  17376   ??  S     7:09     0:00.36 /usr/libexec/intelligentroutingd
+fabiochaput        689   0,0  0,1 410915936  13696   ??  Ss    7:09     0:00.57 /System/Library/ExtensionKit/Extensions/WallpaperDynamicExtension.appex/Contents/MacOS/WallpaperDynamicExtension
+_fpsd              691   0,0  0,1 426948352   8704   ??  Ss    7:09     0:00.34 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+fabiochaput        678   0,0  0,1 426992256  19456   ??  S     7:09     0:06.17 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+fabiochaput        679   0,0  0,0 426978560   8032   ??  S     7:09     0:00.18 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+fabiochaput        686   0,0  0,0 426933616   4832   ??  Ss    7:09     0:00.02 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+fabiochaput        669   0,0  0,1 426973328  18176   ??  S     7:09     0:00.56 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+fabiochaput        666   0,0  0,1 426979488  17600   ??  S     7:09     0:00.78 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+fabiochaput        668   0,0  0,2 427056768  30912   ??  S     7:09     0:00.54 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+root               684   0,0  0,0 426928896   2432   ??  Ss    7:09     0:00.01 /usr/libexec/wallpaperexportd
+root               682   0,0  0,0 426973488   8288   ??  Ss    7:09     0:00.56 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+fabiochaput        667   0,0  0,2 426980272  26560   ??  S     7:09     0:04.32 /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
+_spotlight         656   0,0  0,0 426932880   1968   ??  S     7:09     0:00.26 /usr/sbin/distnoted agent
+_gamecontrollerd   657   0,0  0,0 426932880   1936   ??  S     7:09     0:00.27 /usr/sbin/distnoted agent
+fabiochaput        671   0,0  0,2 427006928  38080   ??  S     7:09     0:08.27 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+fabiochaput        677   0,0  0,2 427202192  30256   ??  S     7:09     0:00.82 /System/Library/CoreServices/iconservicesagent
+fabiochaput        676   0,0  0,1 426967792  12176   ??  S     7:09     0:00.11 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+fabiochaput        670   0,0  0,1 410534240  12704   ??  S     7:09     0:00.86 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+fabiochaput        680   0,0  0,2 426988400  27312   ??  S     7:09     0:01.90 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+root               672   0,0  0,1 426978848  16272   ??  Ss    7:09     0:02.84 /usr/libexec/gamepolicyd
+root               673   0,0  0,0 426934160   1824   ??  Ss    7:09     0:00.01 automountd
+fabiochaput        661   0,0  0,1 426971952  10080   ??  S     7:09     0:00.23 /usr/libexec/dmd
+fabiochaput        659   0,0  0,1 426989840   8736   ??  S     7:09     0:00.79 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+fabiochaput        665   0,0  0,1 411443136  21904   ??  S     7:09     0:00.35 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+fabiochaput        662   0,0  0,2 427005600  26000   ??  S     7:09     0:00.53 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+fabiochaput        663   0,0  0,1 427500528  16576   ??  S     7:09     0:01.10 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+fabiochaput        664   0,0  0,1 426919072  14512   ??  Ss    7:09     0:00.11 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+root               660   0,0  0,1 426944928  13536   ??  Ss    7:09     0:02.96 /usr/sbin/filecoordinationd
+root               658   0,0  0,1 426980272  12896   ??  Ss    7:09     0:00.10 /usr/sbin/systemsoundserverd
+fabiochaput        653   0,0  0,1 426967808  10624   ??  S     7:09     0:01.51 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+fabiochaput        652   0,0  0,3 412301680  47008   ??  S     7:09     0:12.73 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+fabiochaput        651   0,0  0,2 411736176  37648   ??  S     7:09     0:00.46 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+fabiochaput        650   0,0  0,6 412514640  98784   ??  S     7:09     0:10.77 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+fabiochaput        649   0,0  0,0 426928832   1280   ??  Ss    7:09     0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+fabiochaput        648   0,0  0,2 412268992  41376   ??  S     7:09     0:06.55 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+_accessoryupdater   632   0,0  0,0 426932880   1936   ??  S     7:09     0:00.26 /usr/sbin/distnoted agent
+_applepay          635   0,0  0,0 426932880   1936   ??  S     7:09     0:00.26 /usr/sbin/distnoted agent
+fabiochaput        641   0,0  0,1 426988000   9520   ??  S     7:09     0:00.95 /usr/libexec/secinitd
+_nearbyd           639   0,0  0,1 426979872  13056   ??  Ss    7:09     0:07.22 /usr/libexec/nearbyd
+fabiochaput        638   0,0  0,6 412500208  99680   ??  S     7:09     0:08.08 /System/Applications/Notes.app/Contents/MacOS/Notes
+fabiochaput        637   0,0  0,4 412360512  72464   ??  S     7:09     0:09.44 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+root               636   0,0  0,0 410764416   3520   ??  Ss    7:09     0:00.03 /usr/libexec/online-auth-agent
+fabiochaput        634   0,0  0,9 417711392 144384   ??  S     7:09     0:12.40 /Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word
+fabiochaput        633   0,0  0,1 426975200  22000   ??  S     7:09     0:00.56 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+_applepay          629   0,0  0,0 410809136   4384   ??  Ss    7:09     0:00.02 /System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer
+fabiochaput        628   0,0  0,1 426969552  16128   ??  S     7:09     0:00.49 /usr/libexec/bluetoothuserd
+fabiochaput        630   0,0  0,2 426986272  30336   ??  S     7:09     0:01.72 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+fabiochaput        627   0,0  0,8 428569920 127248   ??  S     7:09     0:05.16 /System/Applications/Messages.app/Contents/MacOS/Messages
+root               631   0,0  0,1 426973184  14128   ??  Ss    7:09     0:01.78 /usr/libexec/wifip2pd
+fabiochaput        625   0,0  0,6 1624536368 107808   ??  S     7:09     0:02.85 /private/var/folders/fp/dpzvj70s7vs2xby2sw6lv2j40000gn/T/AppTranslocation/7C974F38-99E0-4183-B357-ADCA98BDA4B0/d/Visual Studio Code.app/Contents/MacOS/Electron
+root               624   0,0  0,0 426932880   5408   ??  Ss    7:09     0:22.26 /usr/sbin/BTLEServer
+fabiochaput        623   0,0  0,6 412460160 102656   ??  S     7:09     0:12.72 /Applications/WhatsApp.app/Contents/MacOS/WhatsApp
+fabiochaput        622   0,0  0,1 427050688  20144   ??  S     7:09     0:00.32 /usr/libexec/appleaccountd
+fabiochaput        621   0,0  0,1 426967168  12944   ??  S     7:09     0:00.24 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+fabiochaput        620   0,0  0,1 426975168  18608   ??  S     7:09     0:00.37 /usr/libexec/findmylocateagent
+fabiochaput        619   0,0  1,0 417128816 165072   ??  S     7:09    10:09.64 /System/Applications/Mail.app/Contents/MacOS/Mail
+fabiochaput        618   0,0  0,1 426969088  12768   ??  S     7:09     0:00.27 /System/Library/CoreServices/sharedfilelistd
+fabiochaput        617   0,0  0,4 412490624  71440   ??  S     7:09     0:02.19 /System/Applications/Preview.app/Contents/MacOS/Preview
+fabiochaput        616   0,0  1,1 432600032 185376   ??  S     7:09     1:30.75 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+fabiochaput        615   0,0  0,2 426981008  28896   ??  S     7:09     0:04.23 /usr/sbin/usernoted
+fabiochaput        614   0,0  0,0 426933200   7488   ??  S     7:09     0:00.06 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+fabiochaput        613   0,0  0,2 427676224  34016   ??  S     7:09     0:09.89 /usr/libexec/sharingd
+fabiochaput        610   0,0  0,1 426977376  14336   ??  S     7:09     0:00.50 /usr/libexec/pkd
+fabiochaput        609   0,0  0,1 426967568  12304   ??  S     7:09     0:00.21 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+fabiochaput        607   0,0  1,7 417433072 283504   ??  S     7:09     2:24.68 /Applications/ChatGPT.app/Contents/MacOS/ChatGPT
+_ctkd              608   0,0  0,0 426933088   3296   ??  Ss    7:09     0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+_applepay          611   0,0  0,1 426968976  10160   ??  Ss    7:09     0:00.35 /usr/libexec/nfcd
+fabiochaput        605   0,0  0,1 426972656  15360   ??  S     7:09     0:00.78 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+fabiochaput        606   0,0  0,2 427061952  29712   ??  S     7:09     0:01.71 /usr/libexec/transparencyd
+fabiochaput        604   0,0  0,4 1597199536  68752   ??  S     7:09     0:04.28 /Applications/Arduino IDE.app/Contents/MacOS/Arduino IDE
+fabiochaput        603   0,0  0,1 426967776  11424   ??  S     7:09     0:00.16 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+fabiochaput        602   0,0  0,0 410182928   1824   ??  Ss    7:09     0:00.00 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+fabiochaput        600   0,0  0,1 426985536  18816   ??  S     7:09     0:03.16 /usr/libexec/nsurlsessiond
+root               601   0,0  0,1 426973184  11712   ??  Ss    7:09     0:00.83 /usr/libexec/rtcreportingd
+fabiochaput        594   0,0  0,1 426968880  15680   ??  S     7:09     0:01.23 /usr/libexec/ContinuityCaptureAgent server
+fabiochaput        593   0,0  0,0 426965552   8096   ??  S     7:09     0:01.00 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+fabiochaput        595   0,0  0,1 426974800  18368   ??  S     7:09     0:10.77 /usr/libexec/trustd --agent
+fabiochaput        592   0,0  0,1 410669632   9232   ??  S     7:09     0:00.13 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+fabiochaput        596   0,0  0,2 427083168  40656   ??  S     7:09     0:04.20 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+fabiochaput        598   0,0  0,3 426993232  43680   ??  S     7:09     0:02.22 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+root               599   0,0  0,0 426968160   6096   ??  S     7:09     0:00.13 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+fabiochaput        568   0,0  0,0 426933472   3792   ??  S     7:09     0:00.02 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+fabiochaput        591   0,0  0,1 426966464  12256   ??  S     7:09     0:00.13 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+fabiochaput        590   0,0  0,1 426999488  16208   ??  S     7:09     0:02.67 /usr/libexec/icloudmailagent
+fabiochaput        589   0,0  0,0 426932528   3520   ??  S     7:09     0:00.02 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+fabiochaput        588   0,0  0,1 426968640  17216   ??  S     7:09     0:04.83 /usr/libexec/triald
+fabiochaput        587   0,0  0,2 426981152  26976   ??  S     7:09     0:03.60 /usr/libexec/rapportd
+fabiochaput        586   0,0  0,2 426986896  31632   ??  S     7:09     0:09.65 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+fabiochaput        585   0,0  0,5 427024880  77520   ??  S     7:09     0:08.78 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+fabiochaput        584   0,0  0,1 427013328  18016   ??  S     7:09     0:01.37 /System/Library/CoreServices/talagentd
+fabiochaput        583   0,0  0,1 426968928  17152   ??  S     7:09     0:05.30 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+fabiochaput        582   0,0  0,1 426981168  18128   ??  S     7:09     0:04.67 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+_appleevents       578   0,0  0,0 426932880   1936   ??  S     7:09     0:00.27 /usr/sbin/distnoted agent
+fabiochaput        581   0,0  0,0 426933616   4096   ??  S     7:09     0:00.47 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+fabiochaput        579   0,0  0,1 426932448   9120   ??  S     7:09     0:00.10 /usr/libexec/findmydevice-user-agent
+fabiochaput        577   0,0  0,2 427005920  26528   ??  S     7:09     0:00.64 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+fabiochaput        576   0,0  0,1 426988832  24176   ??  S     7:09     0:04.87 /usr/libexec/secd
+root               575   0,0  0,0 426967008   6032   ??  Ss    7:09     0:00.12 /usr/libexec/mobileactivationd
+fabiochaput        574   0,0  0,0 426932944   3200   ??  S     7:09     0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+root               573   0,0  0,1 426970672  14944   ??  Ss    7:09     0:00.22 /usr/libexec/findmydeviced
+root               572   0,0  0,0 426932592   2416   ??  Ss    7:09     0:01.06 /usr/libexec/sysmond
+_softwareupdate    560   0,0  0,0 426932880   2224   ??  S     7:09     0:00.32 /usr/sbin/distnoted agent
+fabiochaput        571   0,0  0,2 412098080  40672   ??  S     7:09     0:23.58 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+fabiochaput        570   0,0  0,1 426945456   9184   ??  S     7:09     0:00.13 /usr/libexec/pboard
+fabiochaput        569   0,0  0,1 426979712  18512   ??  S     7:09     0:03.21 /usr/libexec/lsd
+fabiochaput        565   0,0  0,2 426984944  33216   ??  S     7:09     0:01.96 /usr/libexec/knowledge-agent
+fabiochaput        561   0,0  0,1 426969664  20400   ??  S     7:09     0:02.19 /usr/libexec/UserEventAgent (Aqua)
+fabiochaput        567   0,0  0,1 411144400  15296   ??  S     7:09     0:00.36 /usr/sbin/universalaccessd launchd -s
+fabiochaput        566   0,0  0,2 411964816  39248   ??  S     7:09     0:00.49 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+_applepay          563   0,0  0,0 426932736   8064   ??  Ss    7:09     0:00.07 /usr/libexec/seld
+_gamecontrollerd   562   0,0  0,0 426933104   5856   ??  Ss    7:09     0:00.34 /usr/libexec/gamecontrollerd
+root               559   0,0  0,0 426967824   4720   ??  Ss    7:09     0:00.51 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+_softwareupdate    558   0,0  0,1 431393264  17328   ??  Ss    7:09     0:10.84 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root               556   0,0  0,0 426932496   5952   ??  Ss    7:09     0:00.21 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+root               557   0,0  0,0 426932960   2496   ??  Ss    7:09     0:00.04 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+root               555   0,0  0,0 426932464   1584   ??  Ss    7:09     0:00.03 /usr/libexec/applekeystored
+_driverkit         554   0,0  0,0 426852128   1952   ??  Ss    7:09     0:08.50 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000ca9 com.apple.AppleUserHIDDrivers
+_driverkit         553   0,0  0,0 426851488    768   ??  Ss    7:09     0:00.01 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000ca8 com.apple.DriverKit-IOUserDockChannelSerial
+fabiochaput        552   0,0  0,1 426940896   9648   ??  S     7:09     0:50.98 /usr/sbin/cfprefsd agent
+root               550   0,0  0,3 433003520  58224   ??  Rs    7:09     1:22.19 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               548   0,0  0,1 426966992  10240   ??  Ss    7:09     0:00.07 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               541   0,0  0,2 427000144  31248   ??  Ss    7:09     0:28.98 /usr/libexec/searchpartyd
+root               540   0,0  0,0 426934064   4496   ??  Ss    7:09     0:00.05 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+root               538   0,0  0,0 426933040   3072   ??  S     7:09     0:00.36 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_locationd         536   0,0  0,0 426965552   3568   ??  S     7:09     0:00.05 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               535   0,0  0,0 427141536   4176   ??  Ss    7:09     0:00.03 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_locationd         533   0,0  0,0 426968960   6448   ??  S     7:09     0:00.11 /usr/libexec/trustd --agent
+root               532   0,0  0,0 426932400   3344   ??  Ss    7:09     0:00.03 /usr/libexec/bootinstalld
+root               529   0,0  0,1 426970944   8896   ??  Ss    7:09     0:00.12 /usr/libexec/symptomsd-diag
+root               531   0,0  0,1 410533440  10928   ??  S     7:09     0:00.53 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+_locationd         530   0,0  0,0 426932928   2400   ??  S     7:09     0:00.06 /usr/sbin/cfprefsd agent
+_locationd         526   0,0  0,0 426967520   5408   ??  S     7:09     0:00.04 /usr/libexec/secinitd
+_coreaudiod        525   0,0  0,0 426966224   4640   ??  Ss    7:09     0:00.01 /System/Library/PrivateFrameworks/AppleDeviceQuerySupport.framework/Versions/A/XPCServices/AppleDeviceQueryService.xpc/Contents/MacOS/AppleDeviceQueryService
+_locationd         522   0,0  0,1 426971248  10512   ??  S     7:09     0:00.41 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+_locationd         523   0,0  0,0 426932880   1936   ??  S     7:09     0:00.28 /usr/sbin/distnoted agent
+_appleevents       524   0,0  0,0 426968144   6704   ??  Ss    7:09     0:00.13 /System/Library/CoreServices/appleeventsd --server
+root               521   0,0  0,0 426966288   8032   ??  Ss    7:09     0:00.66 /usr/libexec/findmybeaconingd
+root               520   0,0  0,0 410941008   4144   ??  Ss    7:09     0:03.96 /usr/libexec/audioclocksyncd
+root               519   0,0  0,1 426967840  11248   ??  Ss    7:09     0:00.78 /usr/sbin/WirelessRadioManagerd
+_coreaudiod        517   0,0  0,0 410193072   2000   ??  Ss    7:09     0:00.01 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+_cmiodalassistants   515   0,0  0,0 426967056   6480   ??  Ss    7:09     0:00.08 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+_cmiodalassistants   514   0,0  0,0 426965920   5184   ??  Ss    7:09     0:00.07 /usr/libexec/cameracaptured
+root               513   0,0  0,1 426967728   8688   ??  Ss    7:09     0:00.64 /usr/libexec/ospredictiond
+root               511   0,0  0,1 426978224  16656   ??  Ss    7:09     0:06.95 /usr/libexec/syspolicyd
+root               510   0,0  0,0 426966752   5680   ??  Ss    7:09     0:00.23 /usr/libexec/securityd_system
+root               506   0,0  0,0 426968080   6752   ??  Ss    7:09     0:00.44 /System/Library/CoreServices/TimeMachine/backupd
+root               505   0,0  0,1 426967776   9264   ??  Ss    7:09     0:01.21 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd
+root               504   0,0  0,0 411464480   5280   ??  Ss    7:09     0:00.06 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+root               488   0,0  0,0 410189072   1792   ??  Ss    7:09     0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root               482   0,0  0,0 426967152   4624   ??  Ss    7:09     0:01.12 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+root               456   0,0  0,0 426932368   2480   ??  Ss    7:09     0:00.04 /usr/libexec/colorsyncd
+_neuralengine      452   0,0  0,0 426967072   4816   ??  Ss    7:09     0:00.05 /usr/libexec/aneuserd
+root               454   0,0  0,0 426967632   7808   ??  Ss    7:09     0:01.22 /usr/libexec/aned
+root               451   0,0  0,0 426928832   2432   ??  Ss    7:09     0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+root               450   0,0  0,0 426932912   5104   ??  Ss    7:09     0:00.27 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+_cmiodalassistants   442   0,0  0,0 426932880   1936   ??  S     7:09     0:00.29 /usr/sbin/distnoted agent
+_coreaudiod        441   0,0  0,0 426932880   1968   ??  S     7:09     0:00.29 /usr/sbin/distnoted agent
+root               448   0,0  0,0 426966912   4560   ??  Ss    7:09     0:00.30 /usr/sbin/mDNSResponderHelper
+root               447   0,0  0,0 426932432   3216   ??  Ss    7:09     0:00.02 /usr/libexec/colorsync.displayservices
+_biome             445   0,0  0,1 426966304  10016   ??  Ss    7:09     0:00.71 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+_windowserver      435   0,0  0,0 426932880   1936   ??  S     7:09     0:00.29 /usr/sbin/distnoted agent
+root               434   0,0  0,0 426932880   2320   ??  S     7:09     0:00.38 /usr/sbin/distnoted agent
+root              2670   0,0  0,0 410864512   2400 s000  R+    9:31     0:00.01 ps aux
+root               443   0,0  0,1 426975728  10464   ??  Ss    7:09     0:04.55 /usr/libexec/storagekitd
+_coreaudiod        440   0,0  0,0 410322128   2400   ??  Ss    7:09     0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+_mdnsresponder     439   0,0  0,1 426980800  20160   ??  Ss    7:09     0:08.50 /usr/sbin/mDNSResponder
+root               437   0,0  0,0 410636016   1584   ??  Ss    7:09     0:00.02 /usr/libexec/cryptexd
+root               409   0,0  0,0 426932544   3376   ??  Ss    7:09     0:00.07 /usr/libexec/usbd
+root               404   0,0  0,0 426928880   2448   ??  Ss    7:09     0:00.02 /System/Library/CoreServices/liquiddetectiond.app/liquiddetectiond
+root               433   0,0  0,1 426967760  12368   ??  Ss    7:09     0:00.65 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+root               432   0,0  0,1 426968016   8816   ??  Ss    7:09     0:00.41 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               431   0,0  0,0 426933040   4480   ??  Ss    7:09     0:00.04 /usr/libexec/corercd
+root               428   0,0  0,0 426968352   7536   ??  Ss    7:09     0:00.10 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+_iconservices      346   0,0  0,0 426967264   5504   ??  Ss    7:09     0:00.08 /System/Library/CoreServices/iconservicesd
+root               427   0,0  0,0 426932976   4832   ??  Ss    7:09     0:00.05 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root               426   0,0  0,2 426986832  37264   ??  Ss    7:09     2:00.52 /usr/libexec/mobileassetd
+root               425   0,0  0,0 426967504   5392   ??  Ss    7:09     0:00.05 /usr/libexec/secinitd
+_networkd          423   0,0  0,1 426983136  18896   ??  Ss    7:09     0:05.53 /usr/libexec/symptomsd
+root               422   0,0  0,0 426932560   3888   ??  Ss    7:09     0:00.02 /usr/libexec/ApplicationFirewall/socketfilterfw
+_hidd              419   0,0  0,0 426932368   2864   ??  Ss    7:09     0:00.01 /usr/libexec/hidd
+_analyticsd        400   0,0  0,1 426977504  15104   ??  Ss    7:09     0:01.05 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+root               417   0,0  0,1 426971456  11232   ??  Ss    7:09     0:00.69 /usr/libexec/eligibilityd
+_accessoryupdater   327   0,0  0,1 426968704  10624   ??  Ss    7:09     0:00.16 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/accessoryupdaterd 120
+_softwareupdate    338   0,0  0,1 426971488   8880   ??  Ss    7:09     0:00.47 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+root               414   0,0  0,0 426928272   3616   ??  Ss    7:09     0:00.02 /usr/libexec/PowerUIAgent
+root               413   0,0  0,0 426966704   6448   ??  Ss    7:09     0:00.75 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               412   0,0  0,0 426966704   3936   ??  Ss    7:09     0:00.04 /usr/libexec/trustdFileHelper
+root               410   0,0  0,0 426967424   8176   ??  Ss    7:09     0:00.07 /usr/libexec/biometrickitd --launchd
+_nsurlsessiond     406   0,0  0,1 427013680  11840   ??  Ss    7:09     1:13.17 /usr/libexec/nsurlsessiond --privileged
+root               408   0,0  0,0 426932496   2944   ??  Ss    7:09     0:59.77 /usr/libexec/apfsd
+root               407   0,0  0,1 426976224  13280   ??  Ss    7:09     0:00.99 /usr/libexec/nehelper
+root               405   0,0  0,0 426932480   3552   ??  Ss    7:09     0:00.02 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+_trustd            401   0,0  0,1 426971280  13840   ??  Ss    7:09     0:07.22 /usr/libexec/trustd
+root               398   0,0  0,1 426976752  18960   ??  Ss    7:09     0:01.85 /usr/libexec/lsd runAsRoot
+root               397   0,0  0,0 411103312   5392   ??  Ss    7:09     0:00.07 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+root               396   0,0  0,0 426966224   4688   ??  Ss    7:09     0:00.03 /usr/libexec/powerexperienced
+_timed             360   0,0  0,0 426966896   6528   ??  Ss    7:09     0:00.18 /usr/libexec/timed
+_corespeechd       339   0,0  0,0 410681984   2208   ??  Ss    7:09     0:00.02 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd_system
+_usbmuxd           361   0,0  0,0 426977008   6400   ??  Ss    7:09     0:00.29 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+root               394   0,0  0,0 426957312   6112   ??  Ss    7:09     0:00.45 /System/Library/CoreServices/coreservicesd
+root               393   0,0  0,1 426976080  17504   ??  Ss    7:09     0:06.80 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+fabiochaput        390   0,0  0,4 412340096  71536   ??  Ss    7:09     0:07.33 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               389   0,0  0,0 426935872   6944   ??  Ss    7:09     0:05.11 /usr/sbin/cfprefsd daemon
+root               388   0,0  0,1 426978256  17376   ??  Ss    7:09     0:03.62 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               386   0,0  0,0 426932624   2064   ??  Ss    7:09     0:00.17 /usr/libexec/logd_helper
+root               385   0,0  0,0 426932624    448   ??  Ss    7:09     0:00.02 aslmanager
+root               331   0,0  0,0 426928880   2240   ??  Ss    7:09     0:00.02 /usr/libexec/IOMFB_bics_daemon
+root               325   0,0  0,1 426978512  15648   ??  Ss    7:09     0:00.69 /usr/sbin/systemstats --daemon
+root               322   0,0  0,1 426983744  23760   ??  Ss    7:09     0:04.13 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               351   0,0  0,1 426981760  22016   ??  Ss    7:09     0:05.77 /usr/libexec/coreduetd
+root               365   0,0  0,0 426967808   6960   ??  Ss    7:09     0:00.31 /usr/libexec/nesessionmanager
+root               359   0,0  0,1 426973088  12160   ??  Ss    7:09     0:17.70 /System/Library/CoreServices/launchservicesd
+root               329   0,0  0,0 426928336   1568   ??  Ss    7:09     0:00.01 endpointsecurityd
+root               318   0,0  0,0 426967488   6240   ??  Ss    7:09     0:00.07 /usr/libexec/smd
+root               377   0,0  0,0 426933392   5744   ??  Ss    7:09     0:00.08 /usr/libexec/usermanagerd -t 15
+root               375   0,0  0,0 426967328   5808   ??  Ss    7:09     0:00.09 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               373   0,0  0,0 426928784    992   ??  Ss    7:09     0:00.06 /usr/libexec/dirhelper
+root               368   0,0  0,1 426973904  20272   ??  Ss    7:09     0:08.50 /usr/libexec/dasd
+root               384   0,0  0,2 427000592  30944   ??  Ss    7:09     0:00.70 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               352   0,0  0,0 426933808   1920   ??  Ss    7:09     0:00.35 /usr/sbin/syslogd
+root               347   0,0  0,1 426970464   9296   ??  Ss    7:09     0:00.63 /usr/libexec/kernelmanagerd
+root               382   0,0  0,1 426966656  12864   ??  Ss    7:09     0:00.13 /usr/libexec/corebrightnessd --launchd
+root               345   0,0  0,2 426989888  36864   ??  Ss    7:09     0:35.63 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               371   0,0  0,0 426966224   3664   ??  Ss    7:09     0:00.02 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root               362   0,0  0,1 426968560   8992   ??  Ss    7:09     0:01.75 /usr/sbin/securityd -i
+root               341   0,0  0,0 426933024   2704   ??  Ss    7:09     0:00.23 /usr/libexec/watchdogd
+root               381   0,0  0,0 426967568   5264   ??  Ss    7:09     0:00.07 /usr/libexec/sandboxd
+root               376   0,0  0,0 426928848   1376   ??  Ss    7:09     0:00.02 /usr/sbin/KernelEventAgent
+root               358   0,0  0,1 427051936  18416   ??  Ss    7:09     0:02.93 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               383   0,0  0,1 426968624  13728   ??  Ss    7:09     0:02.92 /usr/libexec/AirPlayXPCHelper
+root               367   0,0  0,0 426928832   2304   ??  Ss    7:09     0:00.03 autofsd
+root               374   0,0  0,0 426933008   5824   ??  Ss    7:09     0:00.06 /System/Library/CoreServices/logind
+root               355   0,0  0,0 426966144   5840   ??  Ss    7:09     0:01.09 /usr/libexec/thermalmonitord
+root               348   0,0  0,0 426966432   6400   ??  Ss    7:09     0:01.21 /usr/libexec/diskarbitrationd
+root               337   0,0  0,0 426932480   4448   ??  Ss    7:09     0:00.03 /usr/libexec/keybagd -t 15
+root               335   0,0  0,0 426967312   6176   ??  Ss+   7:09     0:00.08 /usr/libexec/remoted
+root               330   0,0  0,1 426968400  10128   ??  Ss    7:09     0:03.68 /System/Library/CoreServices/powerd.bundle/powerd
+root               328   0,0  0,1 426971856  13008   ??  Ss    7:09     0:03.87 /usr/libexec/configd
+root               333   0,0  0,0 426967824   6304   ??  Ss    7:09     0:00.60 /usr/libexec/amfid
+root               319   0,0  0,1 426975104  20592   ??  Ss    7:09     0:00.99 /usr/libexec/UserEventAgent (System)
+root               415   0,0  0,0 426928848   1936   ??  S     7:09     0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+root              2668   0,0  0,0 426929408   4288   ??  Ss    9:31     0:00.02 /usr/libexec/corecaptured
+root              2667   0,0  0,1 426970640  11264   ??  Ss    9:31     0:00.04 /usr/libexec/mdmclient daemon
+root              2666   0,0  0,1 426968064   9536   ??  Ss    9:31     0:00.04 /System/Library/CoreServices/ManagedClient.app/Contents/MacOS/ManagedClient
+fabiochaput       2665   0,0  0,1 426969504  14016   ??  S     9:31     0:00.06 /usr/libexec/mdmclient agent
+fabiochaput       2664   0,0  0,3 427109824  42000   ??  S     9:31     0:00.38 /usr/libexec/studentd
+fabiochaput       2657   0,0  0,1 427047984  17968   ??  S     9:31     0:00.10 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+fabiochaput       2656   0,0  0,0 410643280   6048   ??  S     9:31     0:00.02 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/XPCKeychainSandboxCheck.xpc/Contents/MacOS/XPCKeychainSandboxCheck
+fabiochaput       2651   0,0  0,3 499006160  55280   ??  Ss    9:30     0:00.07 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2650   0,0  0,1 426985280  14576   ??  S     9:30     0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+fabiochaput       2646   0,0  0,1 426985792  23936   ??  S     9:28     0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+fabiochaput       2632   0,0  0,2 426998496  40848   ??  S     9:25     0:00.94 /usr/libexec/searchpartyuseragent
+root              2618   0,0  0,1 426967616  12352   ??  Ss    9:21     0:00.44 /usr/libexec/wifivelocityd
+fabiochaput       2601   0,0  0,2 498992848  39456   ??  Ss    9:15     0:00.04 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2598   0,0  4,1 500424816 686528   ??  Ss    9:15     0:37.24 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2570   0,0  0,2 427037936  25424   ??  S     9:06     0:00.17 /System/Library/PrivateFrameworks/PaperKit.framework/Contents/LinkedNotesUIService.app/Contents/MacOS/LinkedNotesUIService
+fabiochaput       2546   0,0  0,0 410939888   5168 s000  S     8:56     0:00.16 -zsh
+root              2545   0,0  0,0 410331344   2944   ??  Ss    8:56     0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root              2544   0,0  0,0 410761136   4912 s000  Ss    8:56     0:00.01 login -pf fabiochaput
+fabiochaput       2541   0,0  1,1 499327040 179680   ??  Ss    8:55     0:01.37 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+fabiochaput       2539   0,0  0,0 426932944   3392   ??  Ss    8:55     0:00.02 /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/XPCServices/MDRemoteServiceSupport.xpc/Contents/MacOS/MDRemoteServiceSupport
+fabiochaput       2535   0,0  0,3 427138176  46480   ??  S     8:55     0:00.22 /System/Library/PrivateFrameworks/MobileDevice.framework/Resources/MobileDeviceUpdater.app/Contents/MacOS/MobileDeviceUpdater
+fabiochaput       2536   0,0  0,0 426932928   1664   ??  S     8:55     0:00.04 /usr/libexec/USBAgent
+fabiochaput       2519   0,0  0,1 426953568  11600   ??  Ss    8:44     0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
